@@ -1,0 +1,12 @@
+# Site settings
+title: "EMNLP 16: Structured Prediction for Natural Language Processing"
+email: kw@kwchang.net
+#description: "EMNLP 16: Structured Prediction for Natural Language Processing"
+baseurl: "/"
+url: "http://structuredprediction.github.io/"
+#twitter_username: jekyllrb
+#github_username:  jekyll
+
+# Build settings
+markdown: kramdown
+permalink: pretty
