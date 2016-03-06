@@ -15,13 +15,13 @@ Recently, researchers have demonstrated several improvements to standard structu
 
 *  Integer linear programming and other modeling techniques.
 *  Efficient learning and inference algorithms.
-*   Joint inference and learning approaches.
-*   Learning to search for NLP.
-*   Latent variable models.
-*   Deep learning and neural network approaches for structured prediction.
-*   Structured prediction software.
-*   Structured prediction applications in NLP.
-*   Approximate inference for structured prediction.
+*  Joint inference and learning approaches.
+*  Learning to search for NLP.
+*  Latent variable models.
+*  Deep learning and neural network approaches for structured prediction.
+*  Structured prediction software.
+*  Structured prediction applications in NLP.
+*  Approximate inference for structured prediction.
 
 
 ### Submissions
@@ -29,7 +29,7 @@ Recently, researchers have demonstrated several improvements to standard structu
 We invite the following two types of papers:
 
 *  Paper describing original, solid, and scientific research work related to structured learning in NLP.
-*  Paper reviewing existing literature on a specific structure prediction method used in NLP. 
+*  Paper reviewing literature on a specific structure prediction method or application. 
 
 All submissions must follow EMNLP 2016 formatting requirements, and they must be in PDF.
 Papers should be *8 pages* in length. References do not count against this limit. 
