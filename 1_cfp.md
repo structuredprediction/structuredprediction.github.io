@@ -32,7 +32,8 @@ We invite the following two types of papers:
 *  Paper reviewing literature on a specific structure prediction method or application. 
 
 All submissions must follow EMNLP 2016 formatting requirements, and they must be in PDF.
-Papers should be *8 pages* in length. References do not count against this limit. 
+Papers should be less than *8 pages* in length. References do not count against this limit. 
+The page limit serves as a guideline and will not be strictly enforced.
 The official style files are available at 
 [Official ACL style files (zip)](http://acl2016.org/files/acl2016.zip)
 
@@ -42,10 +43,12 @@ Submission is electronic and is managed by the START conference management syste
 [https://www.softconf.com/emnlp2016/SPNLP/]()
 
 
-Each submission will be reviewed by at least 3 program committee members. 
+Each submission will be reviewed by at least 2 program committee members. 
 
 
 
 ### Important Dates
 
-TBA
+Aug 5: submission deadline (about a week after the EMNLP 2016 acceptance notification)
+Sep 5: acceptance notification (about a month after the submission)
+Sep 26: camera ready (3 weeks after the notification)
