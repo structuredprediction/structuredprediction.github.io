@@ -49,6 +49,6 @@ Each submission will be reviewed by at least 2 program committee members.
 
 ### Important Dates
 
-Aug 5: submission deadline (about a week after the EMNLP 2016 acceptance notification)
-Sep 5: acceptance notification (about a month after the submission)
-Sep 26: camera ready (3 weeks after the notification)
+* Aug 5: submission deadline (about a week after the EMNLP 2016 acceptance notification)
+* Sep 5: acceptance notification (about a month after the submission)
+* Sep 26: camera ready (3 weeks after the notification)
