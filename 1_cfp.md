@@ -29,7 +29,7 @@ Recently, researchers have demonstrated several improvements to standard structu
 We invite the following two types of papers:
 
 *  Paper describing original, solid, and scientific research work related to structured learning in NLP.
-*  Paper reviewing literature on a specific structure prediction method or application. 
+*  Tutorial paper on structure prediction methods and/or applications. 
 
 All submissions must follow EMNLP 2016 formatting requirements, and they must be in PDF.
 Papers should be less than *8 pages* in length. References do not count against this limit. 
