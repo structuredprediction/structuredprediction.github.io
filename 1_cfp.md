@@ -26,23 +26,23 @@ challenges to the learning community. Designing expressive yet
 tractable models and studying efficient learning and inference
 algorithms become important issues.
 
-Recently, researchers have demonstrated several improvements to
-standard structure prediction approaches yielding better performance
-on many tasks.  Especially, approaches that take advantage of
-non-linearity, latent components, and/or approximate inference are
-attracting significant interest in both NLP and ML communities. This
-workshop intends to bring together NLP and ML researchers working on
-diverse aspects of structured prediction and expose the participants
-to recent progress in this area. Topics of interest include, but are
-not limited to, the following:
+Recently, there has been significant interest in non-standard
+structured prediction approaches that take advantage of non-linearity,
+latent components, and/or approximate inference in both the NLP and ML
+communities. Researchers have also been discussing the intersection
+between deep learning and structured prediction through the DeepStructure reading group.  
+This workshop intends to bring together NLP and ML researchers working
+on diverse aspects of structured prediction and expose the
+participants to recent progress in this area. Topics of interest
+include, but are not limited to, the following:
 
 
-
-*  Integer linear programming and other modeling techniques.
 *  Efficient learning and inference algorithms.
 *  Joint inference and learning approaches.
 *  Learning to search for NLP.
 *  Latent variable models.
+*  Integer linear programming and other modeling techniques.
+*  Structured prediction for deep learning models.
 *  Deep learning and neural network approaches for structured prediction.
 *  Structured prediction software.
 *  Structured prediction applications in NLP.
