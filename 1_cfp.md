@@ -43,7 +43,7 @@ following:
 *  Learning to search for NLP.
 *  Latent variable models.
 *  Integer linear programming and other modeling techniques.
-*  Structured prediction for deep learning models.
+*  Structured training for non-linear models.
 *  Deep learning and neural network approaches for structured prediction.
 *  Structured prediction software.
 *  Structured prediction applications in NLP.
