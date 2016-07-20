@@ -61,7 +61,7 @@ All submissions must follow EMNLP 2016 formatting requirements, and they must be
 Papers should be less than *8 pages* in length. References do not count against this limit. 
 The page limit serves as a guideline and will not be strictly enforced.
 The official style files are available at 
-[Official ACL style files (zip)](http://acl2016.org/files/acl2016.zip)
+[EMNLP16 Instructions for Submission](http://www.emnlp2016.net/submissions.html)
 
 Reviewing will be double-blind, and thus no author information should be included in the papers; self-reference should be avoided as well. 
 
