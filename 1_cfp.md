@@ -5,11 +5,36 @@ permalink: /
 name: 1
 ---
 
-Many prediction tasks in NLP involve assigning values to mutually dependent variables. For example, when designing a model to automatically perform linguistic analysis of a sentence or a document (e.g., parsing, semantic role labeling, or discourse analysis), it is crucial to model the correlations between labels. Many other NLP tasks, such as machine translation, textual entailment, and information extraction, can be also modeled as structured prediction problems.
+Many prediction tasks in NLP involve assigning values to mutually
+dependent variables. For example, when designing a model to
+automatically perform linguistic analysis of a sentence or a document
+(e.g., parsing, semantic role labeling, or discourse analysis), it is
+crucial to model the correlations between labels. Many other NLP
+tasks, such as machine translation, textual entailment, and
+information extraction, can be also modeled as structured prediction
+problems. 
 
-In order to tackle such problems,  various structured prediction approaches have been proposed, and their effectiveness has been demonstrated. Studying structured prediction is interesting from both NLP and machine learning (ML) perspectives. From the NLP perspective, syntax and semantics of natural language are clearly structured and advances in this area will enable researchers to understand the linguistic structure of data. From the ML perspective, the large amount of available text data and complex linguistic structures bring challenges to the learning community. Designing expressive yet tractable models and studying efficient learning and inference algorithms become important issues.
+In order to tackle such problems, various structured prediction
+approaches have been proposed, and their effectiveness has been
+demonstrated. Studying structured prediction is interesting from both
+NLP and machine learning (ML) perspectives. From the NLP perspective,
+syntax and semantics of natural language are clearly structured and
+advances in this area will enable researchers to understand the
+linguistic structure of data. From the ML perspective, the large
+amount of available text data and complex linguistic structures bring
+challenges to the learning community. Designing expressive yet
+tractable models and studying efficient learning and inference
+algorithms become important issues.
 
-Recently, researchers have demonstrated several improvements to standard structure prediction approaches yielding better performance on many tasks.  Especially, approaches that take advantage of non-linearity, latent components, and/or approximate inference are attracting significant interest in both NLP and ML communities. This workshop intends to bring together NLP and ML researchers working on diverse aspects of structured prediction and expose the participants to recent progress in this area. Topics of interest include, but are not limited to, the following:
+Recently, researchers have demonstrated several improvements to
+standard structure prediction approaches yielding better performance
+on many tasks.  Especially, approaches that take advantage of
+non-linearity, latent components, and/or approximate inference are
+attracting significant interest in both NLP and ML communities. This
+workshop intends to bring together NLP and ML researchers working on
+diverse aspects of structured prediction and expose the participants
+to recent progress in this area. Topics of interest include, but are
+not limited to, the following:
 
 
 
@@ -49,6 +74,6 @@ Each submission will be reviewed by at least 2 program committee members.
 
 ### Important Dates
 
-* Aug 5: submission deadline (about a week after the EMNLP 2016 acceptance notification)
+* Aug 20: submission deadline (about a week after the EMNLP 2016 acceptance notification)
 * Sep 5: acceptance notification (about a month after the submission)
 * Sep 26: camera ready (3 weeks after the notification)
