@@ -30,11 +30,12 @@ Recently, there has been significant interest in non-standard
 structured prediction approaches that take advantage of non-linearity,
 latent components, and/or approximate inference in both the NLP and ML
 communities. Researchers have also been discussing the intersection
-between deep learning and structured prediction through the DeepStructure reading group.  
-This workshop intends to bring together NLP and ML researchers working
-on diverse aspects of structured prediction and expose the
-participants to recent progress in this area. Topics of interest
-include, but are not limited to, the following:
+between deep learning and structured prediction through the
+DeepStructure reading group. This workshop intends to bring together
+NLP and ML researchers working on diverse aspects of structured
+prediction and expose the participants to recent progress in this
+area. Topics of interest include, but are not limited to, the
+following:
 
 
 *  Efficient learning and inference algorithms.
