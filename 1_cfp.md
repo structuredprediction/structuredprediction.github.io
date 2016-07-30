@@ -59,7 +59,7 @@ We invite the following two types of papers:
 
 All submissions must follow EMNLP 2016 formatting requirements, and they must be in PDF.
 Papers should be less than *8 pages* in length. References do not count against this limit. 
-The page limit serves as a guideline and will not be strictly enforced.
+The page limit serves as a guideline and will not be strictly enforced. We will also accept short papers.
 The official style files are available at 
 [EMNLP16 Instructions for Submission](http://www.emnlp2016.net/submissions.html)
 
