@@ -66,7 +66,7 @@ The official style files are available at
 Reviewing will be double-blind, and thus no author information should be included in the papers; self-reference should be avoided as well. 
 
 Submission is electronic and is managed by the START conference management system at
-[https://www.softconf.com/emnlp2016/SPNLP/]()
+[https://www.softconf.com/emnlp2016/SPNLP/](https://www.softconf.com/emnlp2016/SPNLP/)
 
 
 Each submission will be reviewed by at least 2 program committee members. 
