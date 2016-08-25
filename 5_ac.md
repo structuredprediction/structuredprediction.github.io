@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Accpted Papers
+title: Accepted Papers
 permalink: /ac/
 name: 5
 ---
