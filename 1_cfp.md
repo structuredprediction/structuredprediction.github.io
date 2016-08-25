@@ -80,4 +80,4 @@ Each submission will be reviewed by at least 2 program committee members.
 * Sep 26: camera ready 
 * Nov 05: Workshop at [EMNLP 2016](http://www.emnlp2016.net)
 
-Time is in GMT-12.
+Time is in GMT-12. Deadline is 11:59pm of the date indicated.
