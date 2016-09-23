@@ -5,11 +5,9 @@ permalink: /schedule/
 name: 3
 ---
 
-<img width="20%" src="http://www.cs.toronto.edu/~urtasun/raquel_uoft.jpg">
-<img width="20%" src="https://people.cs.umass.edu/~mccallum/mccallum-1999.jpg">
-<img width="20%" src="https://www.microsoft.com/en-us/research/wp-content/uploads/2016/01/kristina-toutanova-1.jpg">
-<img width="20%" src="http://minds.jacobs-university.de/sites/default/files/uploads/dzmitry/facebook_avatar.jpg">
-
+|<img width="20%" src="https://www.microsoft.com/en-us/research/wp-content/uploads/2016/01/kristina-toutanova-1.jpg">|<img width="20%" src="https://people.cs.umass.edu/~mccallum/mccallum-1999.jpg">| <img width="20%" src="http://cmp.felk.cvut.cz/summerschool2015/images/raquel_uoft.jpg">| <img width="20%" src="http://minds.jacobs-university.de/sites/default/files/uploads/dzmitry/facebook_avatar.jpg">|
+|Kristina Toutanova| Andrew McCallum|Raquel Urtasun| Dzmitry Bahdanau|
+</center>
 
 |9:00--9:15:    | Welcome |
 |9:15--10:00:    | Invited Talk: Kristina Toutanova |
