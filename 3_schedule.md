@@ -5,11 +5,11 @@ permalink: /schedule/
 name: 3
 ---
 
-|9:00-- 9:15:    | Welcome |
+|9:00--9:15:    | Welcome |
 |9:15--10:00:    | Invited Talk: Kristina Toutanova |
 |10:00--10:30:   | Contributed Talk: Jason Eisner |
 |10:30--11:00:   | Coffee Break |
-|11:00 -- 11:45: | Invited Talk : Andrew McCallum |
+|11:00--11:45: | Invited Talk : Andrew McCallum |
 |11:45--12:30:   | Panel: Moderator - Hal Daume |
 |12:30--14:00:   | Lunch|
 |14:00-- 14:45:  | Posters |
