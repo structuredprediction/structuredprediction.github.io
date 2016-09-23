@@ -13,10 +13,10 @@ name: 3
 <td ><img width="150" src="http://minds.jacobs-university.de/sites/default/files/uploads/dzmitry/facebook_avatar.jpg"></td>
 </tr>
 <tr>
-<td>Kristina Toutanova <br> Microsoft Research</td>
-<td>Andrew McCallum<br> UMass Amherst </td>
-<td>Raquel Urtasun <br> University of Toronto </td>
-<td>Dzmitry Bahdanau <br> University of Montreal </td>
+<td><center>Kristina Toutanova <br> Microsoft Research</center></td>
+<td><center>Andrew McCallum<br> UMass Amherst </center></td>
+<td><center>Raquel Urtasun <br> University of Toronto</center> </td>
+<td><center>Dzmitry Bahdanau <br> University of Montreal</center> </td>
 </tr>
 </table>
 </center>
