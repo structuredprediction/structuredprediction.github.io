@@ -5,12 +5,12 @@ permalink: /schedule/
 name: 3
 ---
 <center>
-<table>
+<table style="cellpadding: 30px">
 <tr>
-<td style="padding:10"><img width="150" src="https://www.microsoft.com/en-us/research/wp-content/uploads/2016/01/kristina-toutanova-1.jpg"></td>
-<td style="padding:10"><img width="150" src="https://people.cs.umass.edu/~mccallum/mccallum-1999.jpg"></td>
-<td style="padding:10"><img width="150" src="http://cmp.felk.cvut.cz/summerschool2015/images/raquel_uoft.jpg"></td>
-<td style="padding:10"><img width="150" src="http://minds.jacobs-university.de/sites/default/files/uploads/dzmitry/facebook_avatar.jpg"></td>
+<td ><img width="150" src="https://www.microsoft.com/en-us/research/wp-content/uploads/2016/01/kristina-toutanova-1.jpg"></td>
+<td ><img width="150" src="https://people.cs.umass.edu/~mccallum/mccallum-1999.jpg"></td>
+<td ><img width="150" src="http://cmp.felk.cvut.cz/summerschool2015/images/raquel_uoft.jpg"></td>
+<td ><img width="150" src="http://minds.jacobs-university.de/sites/default/files/uploads/dzmitry/facebook_avatar.jpg"></td>
 </tr>
 <tr>
 <td>Kristina Toutanova <br> Microsoft Research</td>
@@ -19,7 +19,7 @@ name: 3
 <td>Dzmitry Bahdanau <br> University of Montreal </td>
 </tr>
 </table>
-<center>
+</center>
 
 |9:00--9:15:    | Welcome |
 |9:15--10:00:    | Invited Talk: Kristina Toutanova |
