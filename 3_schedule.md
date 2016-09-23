@@ -4,20 +4,22 @@ title: Schedule
 permalink: /schedule/
 name: 3
 ---
+<center>
 <table>
 <tr>
-<td><img width="20%" src="https://www.microsoft.com/en-us/research/wp-content/uploads/2016/01/kristina-toutanova-1.jpg"></td>
-<td><img width="20%" src="https://people.cs.umass.edu/~mccallum/mccallum-1999.jpg"></td>
-<td><img width="20%" src="http://cmp.felk.cvut.cz/summerschool2015/images/raquel_uoft.jpg"></td>
-<td><img width="20%" src="http://minds.jacobs-university.de/sites/default/files/uploads/dzmitry/facebook_avatar.jpg"></td>
+<td style="padding:10"><img width="150" src="https://www.microsoft.com/en-us/research/wp-content/uploads/2016/01/kristina-toutanova-1.jpg"></td>
+<td style="padding:10"><img width="150" src="https://people.cs.umass.edu/~mccallum/mccallum-1999.jpg"></td>
+<td style="padding:10"><img width="150" src="http://cmp.felk.cvut.cz/summerschool2015/images/raquel_uoft.jpg"></td>
+<td style="padding:10"><img width="150" src="http://minds.jacobs-university.de/sites/default/files/uploads/dzmitry/facebook_avatar.jpg"></td>
 </tr>
 <tr>
-<td>Kristina Toutanova</td>
-<td>Andrew McCallum</td>
-<td>Raquel Urtasun</td>
-<td>Dzmitry Bahdanau</td>
+<td>Kristina Toutanova <br> Microsoft Research</td>
+<td>Andrew McCallum<br> UMass Amherst </td>
+<td>Raquel Urtasun <br> University of Toronto </td>
+<td>Dzmitry Bahdanau <br> University of Montreal </td>
 </tr>
 </table>
+<center>
 
 |9:00--9:15:    | Welcome |
 |9:15--10:00:    | Invited Talk: Kristina Toutanova |
