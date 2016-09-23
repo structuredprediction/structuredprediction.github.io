@@ -5,7 +5,7 @@ permalink: /schedule/
 name: 3
 ---
 <center>
-<table style="cellpadding: 30px">
+<table style="border-spacing: 15px">
 <tr>
 <td ><img width="150" src="https://www.microsoft.com/en-us/research/wp-content/uploads/2016/01/kristina-toutanova-1.jpg"></td>
 <td ><img width="150" src="https://people.cs.umass.edu/~mccallum/mccallum-1999.jpg"></td>
@@ -28,7 +28,7 @@ name: 3
 |11:00--11:45: | Invited Talk : Andrew McCallum |
 |11:45--12:30:   | Panel: Moderator - Hal Daume |
 |12:30--14:00:   | Lunch|
-|14:00-- 14:45:  | Posters |
+|14:00--14:45:  | Posters |
 |14:45--15:30:   | Invited Talk: Raquel Urtasun |
 |15:30--16:00:   | Coffee Break |
 |16:00--16:45:   | Invited Talk: Dzmitry Bahdanau |
