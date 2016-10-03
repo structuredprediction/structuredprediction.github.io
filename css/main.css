@@ -34,6 +34,10 @@ a:visited { color: #205caa; }
   zoom: 1;
 }
 
+.papers td {
+    vertical-align: top;
+    padding-bottom: 10px;
+}
 
 /* Layout Styles */
 /* ----------------------------------------------------------*/
