@@ -7,7 +7,8 @@ name: 5
 
 
 <table>
-<tr><td> <a href="/final/10/10_Paper.pdf">Unsupervised Neural Hidden Markov Models</a></td><td>Ke M. Tran, Yonatan Bisk, Ashish Vaswani, Daniel Marcu, and Kevin Knight</td> </tr>
+<tr><th> Paper </th><th>Authors</th></tr>
+<tr><td width=75%> <a href="/final/10/10_Paper.pdf">Unsupervised Neural Hidden Markov Models</a></td><td>Ke M. Tran, Yonatan Bisk, Ashish Vaswani, Daniel Marcu, and Kevin Knight</td> </tr>
 <tr><td> <a href="/final/11/11_Paper.pdf">Inside-Outside and Forward-Backward Algorithms Are Just Backprop</a></td><td>Jason Eisner</td> </tr>
 <tr><td><a href="/final/4/4_Paper.pdf">Research on attention memory networks as a model for learning natural language infere</a> </td><td>Zhuang Liu, Degen Huang, Jing Zhang, and Kaiyu Huang</td></tr>
 <tr><td><a href="/final/6/6_Paper.pdf">Joint Model of Rhetorical Discourse Structure and Summarization</a> </td><td>Naman Goyal and Jacob Eisenstein</td></tr>
