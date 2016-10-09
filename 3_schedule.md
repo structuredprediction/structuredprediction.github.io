@@ -6,8 +6,8 @@ name: 3
 ---
 <center>
 
-Venue: The Gallery Room, [Hilton Austin](http://www.emnlp2016.net/venue.html), 500 East 4th Street, Austin, TX
-Date: Nov. 05, 2016
+- Venue: The Gallery Room, [Hilton Austin](http://www.emnlp2016.net/venue.html), 500 East 4th Street, Austin, TX
+- Date: Nov. 05, 2016
 
 <table style="border-spacing: 15px">
 <tr>
