@@ -5,6 +5,10 @@ permalink: /schedule/
 name: 3
 ---
 <center>
+
+Venue: The Gallery Room, [Hilton Austin](http://www.emnlp2016.net/venue.html), 500 East 4th Street, Austin, TX
+Date: Nov. 05, 2016
+
 <table style="border-spacing: 15px">
 <tr>
 <td ><img width="150" src="https://www.microsoft.com/en-us/research/wp-content/uploads/2016/01/kristina-toutanova-1.jpg"></td>
