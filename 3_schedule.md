@@ -33,7 +33,7 @@ name: 3
 |11:45--12:30:   | Panel: Moderator - Hal Daume |
 |12:30--14:00:   | Lunch|
 |14:00--14:45:  | Posters |
-|14:30--15:15:   | Invited Talk: Raquel Urtasun |   
+|14:30--15:15:   | Invited Talk: Raquel Urtasun (Note: the time is changed.) |   
 |15:30--16:00:   | Coffee Break |
 |16:00--16:45:   | Invited Talk: Dzmitry Bahdanau |
 |16:45--17:15:   | Contributed Talk: Yonatan Bisk  | 
