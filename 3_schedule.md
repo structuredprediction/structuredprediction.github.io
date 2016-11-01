@@ -17,7 +17,6 @@ name: 3
 </tr>
 <tr>
 <td><center>Kristina Toutanova <br> Microsoft Research</center></td>
-<td><center>Andrew McCallum<br> UMass Amherst </center></td>
 <td><center>Raquel Urtasun <br> University of Toronto</center> </td>
 <td><center>Dzmitry Bahdanau <br> University of Montreal</center> </td>
 </tr>
