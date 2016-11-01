@@ -22,7 +22,7 @@ name: 3
 </tr>
 </table>
 </center>
-(Note: the time is changed.)
+(Note: the schedule is changed.)
 
 |9:00--9:15:    | Welcome |
 |9:15--10:00:    | Invited Talk: Kristina Toutanova |
