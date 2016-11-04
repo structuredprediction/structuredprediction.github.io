@@ -5,7 +5,7 @@ permalink: /schedule/
 name: 3
 ---
 
-* Venue:  Westin Hotel, 310 East 5th St, Austin.
+* Venue: The Gallery, Westin Hotel, 310 East 5th St, Austin.
 * Date: Nov. 05, 2016
 
 <center>
