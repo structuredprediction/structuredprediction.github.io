@@ -5,7 +5,7 @@ permalink: /schedule/
 name: 3
 ---
 
-* Venue: The Gallery Room, [Hilton Austin](http://www.emnlp2016.net/venue.html), 500 East 4th Street, Austin, TX
+* Venue:  Westin Hotel, 310 East 5th St, Austin.
 * Date: Nov. 05, 2016
 
 <center>
@@ -31,7 +31,7 @@ name: 3
 |10:00--10:30:   | Contributed Talk: Jason Eisner |
 |10:30--11:00:   | Coffee Break |
 |11:00--11:45: | Invited Talk: Dhruv Batra  |
-|11:45--12:30:   | Panel: Moderator - Hal Daume, panelists: Dzmitry Bahdanau, Yejin Choi, Sebastian Riedel
+|11:45--12:30:   | Panel: Moderator - Hal Daume, <br> panelists: Dzmitry Bahdanau, Yejin Choi, Sebastian Riedel
 , Noah Smith |
 |12:30--14:00:   | Lunch|
 |14:00--15:00:  | Posters |
