@@ -35,7 +35,7 @@ name: 3
 , Noah Smith |
 |12:30--14:00:   | Lunch|
 |14:00--15:00:  | Posters |
-|15:00--15:30   | David Grangier|
+|15:00--15:30   | Invited Talk: David Grangier|
 |15:30--16:00:   | Coffee Break |
 |16:00--16:45:   | Invited Talk: Dzmitry Bahdanau |
 |16:45--17:15:   | Contributed Talk: Yonatan Bisk  | 
