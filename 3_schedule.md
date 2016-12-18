@@ -26,7 +26,7 @@ name: 3
 </center>
 (Note: the schedule is changed.)
 
-|9:00--9:15:    | Welcome [.pptx](emnlp16workshop.pptx), [.pdf](emnlp16workshop.pdf) |
+|9:00--9:15:    | Welcome [.pptx](../emnlp16workshop.pptx), [.pdf](../emnlp16workshop.pdf) |
 |9:15--10:00:    | Invited Talk: Kristina Toutanova |
 |10:00--10:30:   | Contributed Talk: Jason Eisner |
 |10:30--11:00:   | Coffee Break |
