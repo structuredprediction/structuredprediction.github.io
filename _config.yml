@@ -1,13 +1,13 @@
 # Site settings
 title1: "EMNLP 16 "
 title1_16: "EMNLP 16 "
-title1_17: "EMNLP 16 "
+title1_17: "EMNLP 17 "
 title2: " Workshop on Structured Prediction for NLP"
 email: kw@kwchang.net
 #description: "EMNLP 16: Structured Prediction for Natural Language Processing"
 baseurl: ""
 url1_16: "http://www.emnlp2016.net"
-url1_17: "http://www.emnlp2016.net"
+url1_17: "http://www.emnlp2017.net"
 url2: "http://structuredprediction.github.io"
 #twitter_username: jekyllrb
 #github_username:  jekyll
