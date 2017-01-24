@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Program Committee
-permalink: /pc/
+permalink: /EMNLP16/pc/
 name: 7
 ---
 

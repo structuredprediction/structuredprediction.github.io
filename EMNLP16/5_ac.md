@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Accepted Papers
-permalink: /ac/
+permalink: /EMNLP16/ac/
 name: 5
 ---
 

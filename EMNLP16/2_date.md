@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Important Dates
-permalink: /date/
+permalink: /EMNLP16/date/
 name: 2
 ---
 

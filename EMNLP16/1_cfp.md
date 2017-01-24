@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Call for Papers
-permalink: /
+permalink: /EMNLP16
 name: 1
 ---
 
