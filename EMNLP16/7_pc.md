@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page16
 title: Program Committee
 permalink: /EMNLP16/pc/
 name: 7

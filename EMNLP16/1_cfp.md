@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page16
 title: Call for Papers
 permalink: /EMNLP16
 name: 1

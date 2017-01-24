@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page16
 title: Accepted Papers
 permalink: /EMNLP16/ac/
 name: 5

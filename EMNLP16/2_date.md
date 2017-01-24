@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page16
 title: Important Dates
 permalink: /EMNLP16/date/
 name: 2

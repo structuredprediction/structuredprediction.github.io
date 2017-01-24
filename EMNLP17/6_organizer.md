@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page17
 title: Organizers
 permalink: /EMNLP17/organizers/
 name: 6
