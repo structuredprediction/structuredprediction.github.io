@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: page17
 title: Call for Papers
-permalink: /EMNLP16
+permalink: /EMNLP17
 name: 1
 ---
 
@@ -57,16 +57,16 @@ We invite the following two types of papers:
 *  Paper describing original, solid, and scientific research work related to structured learning in NLP.
 *  Tutorial paper on structure prediction methods and/or applications. 
 
-All submissions must follow EMNLP 2016 formatting requirements, and they must be in PDF.
+All submissions must follow EMNLP 2017 formatting requirements, and they must be in PDF.
 Papers should be less than *8 pages* in length. References do not count against this limit. 
 The page limit serves as a guideline and will not be strictly enforced. We will also accept short papers.
 The official style files are available at 
-[EMNLP16 Instructions for Submission](http://www.emnlp2016.net/submissions.html)
+[EMNLP17 Instructions for Submission](http://www.emnlp2017.net/submissions.html)
 
 Reviewing will be double-blind, and thus no author information should be included in the papers; self-reference should be avoided as well. 
 
 Submission is electronic and is managed by the START conference management system at
-[https://www.softconf.com/emnlp2016/SPNLP/](https://www.softconf.com/emnlp2016/SPNLP/)
+[https://www.softconf.com/emnlp2017/SPNLP/](https://www.softconf.com/emnlp2017/SPNLP/)
 
 
 Each submission will be reviewed by at least 2 program committee members. 
@@ -75,9 +75,9 @@ Each submission will be reviewed by at least 2 program committee members.
 
 ### Important Dates
 
-* **Aug 27: (DEADLINE EXTENDED)** submission deadline 
-* Sep 12: acceptance notification 
-* Sep 26: camera ready 
-* Nov 05: Workshop at [EMNLP 2016](http://www.emnlp2016.net)
+* June 10:  submission deadline 
+* July 1: acceptance notification 
+* July 14: camera ready 
+* Sep 7: Workshop at [EMNLP 2017](http://www.emnlp2017.net)
 
 Time is in GMT-12. Deadline is 11:59pm of the date indicated.

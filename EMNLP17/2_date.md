@@ -1,11 +1,12 @@
 ---
-layout: page
+layout: page17
 title: Important Dates
-permalink: /EMNLP16/date/
+permalink: /EMNLP17/date/
 name: 2
 ---
+* June 10:  submission deadline 
+* July 1: acceptance notification 
+* July 14: camera ready 
+* Sep 7: Workshop at [EMNLP 2017](http://www.emnlp2017.net)
 
-* **Aug 27: (DEADLINE EXTENDED)** submission deadline (about three weeks after the EMNLP 2016 acceptance notification) 
-* Sep 12: acceptance notification  
-* Sep 26: camera ready
-* Nov 05: workshop at [EMNLP 2016](www.emnlp2016.net) (Note the date has been changed.)
+

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Organizers
-permalink: /EMNLP16/organizers/
+permalink: /EMNLP17/organizers/
 name: 6
 ---
 
