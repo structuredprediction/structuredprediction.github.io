@@ -40,7 +40,8 @@ following:
 
 *  Efficient learning and inference algorithms.
 *  Joint inference and learning approaches.
-*  Learning to search for NLP.
+*  Reinforcement learning and imitation learning for structured learning in NLP
+*  Multi-task learning for structured output tasks
 *  Latent variable models.
 *  Integer linear programming and other modeling techniques.
 *  Structured training for non-linear models.
