@@ -62,7 +62,7 @@ All submissions must follow EMNLP 2017 formatting requirements, and they must be
 Papers should be less than *8 pages* in length. References do not count against this limit. 
 The page limit serves as a guideline and will not be strictly enforced. We will also accept short papers.
 The official style files are available at 
-[EMNLP17 Instructions for Submission](http://www.emnlp2017.net/submissions.html)
+[EMNLP17 Instructions for Submission](http://emnlp2017.net/call-for-papers.html)
 
 Reviewing will be double-blind, and thus no author information should be included in the papers; self-reference should be avoided as well. 
 
