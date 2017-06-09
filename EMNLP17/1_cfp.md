@@ -76,7 +76,7 @@ Each submission will be reviewed by at least 2 program committee members.
 
 ### Important Dates
 
-* June 24 (Extended from June 10):  submission deadline
+* *June 24 (Extended from June 10)*:  submission deadline
 * July 1: acceptance notification 
 * July 14: camera ready 
 * Sep 7: Workshop at [EMNLP 2017](http://www.emnlp2017.net)
