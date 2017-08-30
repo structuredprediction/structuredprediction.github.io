@@ -27,7 +27,7 @@ name: 3
 
 * Tentative Schedule
 
-|9:00--9:15:    | Welcome [.pptx](https://structuredprediction.github.io/emnlp16workshop.pptx), [.pdf](https://structuredprediction.github.io/emnlp16workshop.pdf) |
+|9:00--9:15:    | Welcome  |
 |9:15--10:00:    | Invited Talk: Andre Martins  |
 |10:00--10:30:   | Contributed Talk: Emma Strubell |
 |10:30--11:00:   | Coffee Break |
