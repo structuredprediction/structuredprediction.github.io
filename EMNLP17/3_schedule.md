@@ -14,7 +14,7 @@ name: 3
 <td ><img width="150" src="">https://andre-martins.github.io/images/andre_beijing.jpg</td>
 <td ><img width="150" src="http://isabelleaugenstein.github.io/images/isabelle.jpg"></td>
 <td ><img width="150" src="http://web.engr.oregonstate.edu/~huanlian/lianghuang-venice-canals.jpg"></td>
-<td ><img width="150" src="http://minds.jacobs-university.de/sites/default/files/uploads/dzmitry/facebook_avatar.jpg"></td>
+<td ><img width="150" src="https://www.microsoft.com/en-us/research/wp-content/uploads/2016/08/avatar_user__1472692894-180x180.jpg"></td>
 </tr>
 <tr>
 <td><center>Andre Martins <br>  Unbabel and Instituto de Telecomunicacoes</center></td>
