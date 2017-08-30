@@ -5,8 +5,8 @@ permalink: /EMNLP17/schedule/
 name: 3
 ---
 
-* Venue: The Gallery, Westin Hotel, 310 East 5th St, Austin.
-* Date: Nov. 05, 2016
+* Venue: Hovedbanen, CPH conference
+* Date: Sep. 07, 2017
 
 <center>
 <table style="border-spacing: 15px">
@@ -24,7 +24,8 @@ name: 3
 </tr>
 </table>
 </center>
-(Note: the schedule is changed.)
+
+* Tentative Schedule
 
 |9:00--9:15:    | Welcome [.pptx](https://structuredprediction.github.io/emnlp16workshop.pptx), [.pdf](https://structuredprediction.github.io/emnlp16workshop.pdf) |
 |9:15--10:00:    | Invited Talk: Andre Martins  |
