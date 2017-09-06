@@ -25,6 +25,8 @@ name: 3
 </table>
 </center>
 
+* [Accepted Papers](http://structuredprediction.github.io/EMNLP17/ac/) 
+
 * Tentative Schedule
 
 |9:00--9:15:    | Welcome  |
