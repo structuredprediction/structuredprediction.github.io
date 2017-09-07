@@ -76,8 +76,27 @@ Isabelle Augenstein is a a tenure-track assistant professor at the University of
 
 ### Liang Huang (Oregon State University)
 
+**Title**: Marrying Dynamic Programming with Recurrent Neural Networks
 
-**Bio**:  Liang Huang is currently an Assistant Professor of EECS at Oregon State University, and a part-time Research Scientist with IBM's Watson Group. Before that, he was Assistant Professor for three years at the City University of New York (CUNY). He graduated from Penn in 2008 and has worked as a Research Scientist at Google and a Research Assistant Professor at USC/ISI. Most of his work develops fast algorithms and provable theory to speedup large-scale natural language processing, structured machine learning, and computational structural biology. He has received a Best Paper Award at ACL 2008, a Best Paper Honorable Mention at EMNLP 2016, several best paper nominations (ACL 2007, EMNLP 2008, and ACL 2010), two Google Faculty Research Awards (2010 and 2013), a Yahoo! Faculty Research Award (2015), and a University Teaching Prize at Penn (2005). DARPA, NSF, Google, and Yahoo have supported his research. He also co-authored a best-selling textbook in China on algorithms for programming contests.
+**Abstract**
+
+Structured prediction revolves around two basic questions:
+
+a) [the search problem] how to find the highest-scoring output structure under a certain model among all possible candidates for a given input
+b) [the learning problem] how to make the model assign the highest score to the ground-truth structure among all possible candidates for a given input
+
+We can see that both questions face the challenge of exponentially large search space, which is usually alleviated by dynamic programming (DP). In recent years, on the other hand, neural nets (especially recurrent ones) have gradually automated feature engineering for the learning problem, which led to better accuracies in many structured prediction tasks. Unfortunately, naive use of RNNs would rule out DP  since they can "remember every bits of the history". Can we take advantage of both DP and RNNs? We show that, surprisingly, DP and RNNs, if used creatively, are made for each other as long as the RNN summarizes the input rather than the output structure. This line of work led to efficient parsers with state-of-the-art accuracies in both dependency and constituency parsing.
+
+Details can be found in:
+
+[1] James Cross and Liang Huang (2016). Span-Based Constituency Parsing with a Structure-Label System and Provably Optimal Dynamic Oracles. EMNLP 2016.
+
+[2] Tianze Shi, Liang Huang, and Lillian Lee (2017). Fast(er) Exact Decoding and Global Training for Transition-Based Dependency Parsing via A Minimal Feature Set. EMNLP 2017.
+
+[3] Mitchell Stern, Jacob Andreas, and Dan Klein (2017). A minimal Span-based Neural Constituency Parser. ACL 2017. (inspired by [1], but _not_ my work). 
+
+
+**Bio**:  Liang is an Assistant Professor at Oregon State University. Before that he has worked at many places including Google Research, USC/ISI, and CUNY. He works on efficient algorithms and provable theory to speedup large-scale natural language processing, structured prediction, and computational structural biology. He received the Best Paper Award at ACL 2008, a Best Paper Honorable Mention at EMNLP 2016, several best paper nominations, and two Google Faculty Research Awards. 
 
 
 
