@@ -35,7 +35,7 @@ name: 3
 |11:45--12:15:   | Poster Madness |
 |12:15--14:00:   | Lunch|
 |14:00--14:45:  | Posters |
-|14:45--15:30   | Invited Talk: Liang Huang |
+|14:45--15:30   | Invited Talk: Liang Huang [slides](http://web.engr.oregonstate.edu/~huanlian/slides/DP-RNN-EMNLP.pdf)|
 |15:30--16:00:   | Coffee Break |
 |16:00--16:45:   | Invited Talk: Scott Yih|
 |16:45--17:15:   | Contributed Talk: Iulian Vlad Serban | 
@@ -76,7 +76,7 @@ Isabelle Augenstein is a a tenure-track assistant professor at the University of
 
 ### Liang Huang (Oregon State University)
 
-**Title**: Marrying Dynamic Programming with Recurrent Neural Networks
+**Title**: [Marrying Dynamic Programming with Recurrent Neural Networks](http://web.engr.oregonstate.edu/~huanlian/slides/DP-RNN-EMNLP.pdf)
 
 **Abstract**
 
