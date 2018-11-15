@@ -1,7 +1,7 @@
 ---
 layout: page19
 title: Important Dates
-permalink: /EMNLP19/date/
+permalink: /SPNLP19/date/
 name: 2
 ---
 TBD

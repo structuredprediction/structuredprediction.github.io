@@ -1,7 +1,7 @@
 ---
 layout: page19
 title: Call for Papers
-permalink: /EMNLP19
+permalink: /SPNLP19
 name: 1
 ---
 

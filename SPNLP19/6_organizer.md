@@ -1,7 +1,7 @@
 ---
 layout: page19
 title: Organizers
-permalink: /EMNLP19/organizers/
+permalink: /SPNLP19/organizers/
 name: 6
 ---
 

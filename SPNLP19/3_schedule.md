@@ -1,7 +1,7 @@
 ---
 layout: page19
 title: Schedule
-permalink: /EMNLP19/schedule/
+permalink: /SPNLP19/schedule/
 name: 3
 ---
 

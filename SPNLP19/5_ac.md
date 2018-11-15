@@ -1,7 +1,7 @@
 ---
 layout: page19
 title: Accepted Papers
-permalink: /EMNLP19/ac/
+permalink: /SPNLP19/ac/
 name: 5
 ---
 
