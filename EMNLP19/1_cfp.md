@@ -5,14 +5,7 @@ permalink: /EMNLP19
 name: 1
 ---
 
-Many prediction tasks in NLP involve assigning values to mutually
-dependent variables. For example, when designing a model to
-automatically perform linguistic analysis of a sentence or a document
-(e.g., parsing, semantic role labeling, or discourse analysis), it is
-crucial to model the correlations between labels. Many other NLP
-tasks, such as machine translation, textual entailment, and
-information extraction, can be also modeled as structured prediction
-problems. 
+Many prediction tasks in NLP involve assigning values to mutually dependent variables. For example, when designing a model to automatically perform linguistic analysis of a sentence or a document (e.g., parsing, semantic role labeling, or discourse analysis), it is crucial to model the correlations between labels. Many other NLP tasks, such as machine translation, textual entailment, and information extraction, can be also modeled as structured prediction problems.
 
 In order to tackle such problems, various structured prediction
 approaches have been proposed, and their effectiveness has been
@@ -26,48 +19,41 @@ challenges to the learning community. Designing expressive yet
 tractable models and studying efficient learning and inference
 algorithms become important issues.
 
-Recently, there has been significant interest in non-standard
-structured prediction approaches that take advantage of non-linearity,
-latent components, and/or approximate inference in both the NLP and ML
-communities. Researchers have also been discussing the intersection
-between deep learning and structured prediction through the
-DeepStructure reading group. This workshop intends to bring together
-NLP and ML researchers working on diverse aspects of structured
-prediction and expose the participants to recent progress in this
-area. Topics of interest include, but are not limited to, the
-following:
+This workshop follows the two previous successful editions in 2017 and 2016 on Structured Prediction for NLP, as well as the closely related ICML 17 Workshop on Deep Structured Prediction. It is very timely, as there has been a renewed interest in structured prediction among NLP researchers due to recent advances in methods using continuous representations, able to learn with task-level supervision, or modelling latent linguistic structure.
+
+Topics will include, but are not limited to, the following:
 
 
-*  Efficient learning and inference algorithms.
-*  Joint inference and learning approaches.
+*  Efficient learning and inference algorithms
+*  Joint inference and learning approaches
 *  Reinforcement learning and imitation learning for structured learning in NLP
 *  Multi-task learning for structured output tasks
-*  Latent variable models.
-*  Integer linear programming and other modeling techniques.
-*  Structured training for non-linear models.
-*  Deep learning and neural network approaches for structured prediction.
-*  Structured prediction software.
-*  Structured prediction applications in NLP.
-*  Approximate inference for structured prediction.
+*  Latent structured variable models
+*  Structured deep generative models
+*  Neural graph learning approaches for NLP
+*  Integer linear programming and other modeling techniques
+*  Approximate inference for structured prediction
+*  Structured training for non-linear models
+*  Deep learning and neural network approaches for structured prediction
+*  Structured prediction software
+*  Structured prediction applications in NLP
+
 
 
 ### Submissions
 
-We invite the following two types of papers:
+We invite submissions of the following kinds:
 
-*  Paper describing original, solid, and scientific research work related to structured learning in NLP.
-*  Tutorial paper on structure prediction methods and/or applications. 
+*  Research papers
+*  Position papers
+*  Tutorial/overview papers
 
-All submissions must follow EMNLP 2017 formatting requirements, and they must be in PDF.
-Papers should be less than *8 pages* in length. References do not count against this limit. 
-The page limit serves as a guideline and will not be strictly enforced. We will also accept short papers.
-The official style files are available at 
-[EMNLP17 Instructions for Submission](http://emnlp2017.net/call-for-papers.html)
+Long/short papers should consist of eight/four pages of content plus unlimited pages for bibliography. Submissions must be in PDF format, anonymized for review. Papers can be submitted as non-archival, so that their content can be reused for other venues. Add "(NON-ARCHIVAL)" to the title of the submission. Non-archival papers will be linked from this webpage if their authors wish to. Previously published work can also be submitted as non-archival in the same way, with the additional requirement to state on the first page the original publication.
 
 Reviewing will be double-blind, and thus no author information should be included in the papers; self-reference should be avoided as well. 
 
 Submission is electronic and is managed by the START conference management system at
-[https://www.softconf.com/emnlp2017/SPNLP/](https://www.softconf.com/emnlp2017/SPNLP/)
+[https://www.softconf.com/emnlp2019/SPNLP/](https://www.softconf.com/emnlp2019/SPNLP/)
 
 
 Each submission will be reviewed by at least 2 program committee members. 
@@ -76,9 +62,6 @@ Each submission will be reviewed by at least 2 program committee members.
 
 ### Important Dates
 
-* **June 24 (Extended from June 10)**:  submission deadline
-* July 1: acceptance notification 
-* July 14: camera ready 
-* Sep 7: Workshop at [EMNLP 2017](http://www.emnlp2017.net)
+TBD
 
 Time is in GMT-12. Deadline is 11:59pm of the date indicated.
