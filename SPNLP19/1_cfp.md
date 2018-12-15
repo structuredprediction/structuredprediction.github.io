@@ -19,10 +19,9 @@ challenges to the learning community. Designing expressive yet
 tractable models and studying efficient learning and inference
 algorithms become important issues.
 
-This workshop follows the two previous successful editions in 2017 and 2016 on Structured Prediction for NLP, as well as the closely related ICML 17 Workshop on Deep Structured Prediction. It is very timely, as there has been a renewed interest in structured prediction among NLP researchers due to recent advances in methods using continuous representations, able to learn with task-level supervision, or modelling latent linguistic structure.
+This workshop follows the two previous successful editions in 2017 and 2016 on Structured Prediction for NLP, as well as the closely related ICML 2017 Workshop on Deep Structured Prediction. It is very timely, as there has been a renewed interest in structured prediction among NLP researchers due to recent advances in methods using continuous representations, able to learn with task-level supervision, or modelling latent linguistic structure.
 
 Topics will include, but are not limited to, the following:
-
 
 *  Efficient learning and inference algorithms
 *  Joint inference and learning approaches
@@ -67,7 +66,7 @@ Topics will include, but are not limited to, the following:
 
 * Wilker Aziz, University of Amsterdam, Netherlands
 * Joost Bastings, University of Amsterdam, Netherlands
-* Hal Daumé, Microsoft & University of Maryland, USA
+* Hal Daumé III, Microsoft & University of Maryland, USA
 * Hiko Schamoni, Heidelberg University, Germany
 * Stefan Riezler, Heidelberg University, Germany
 * Artem Sokolov, Amazon,  Germany
@@ -118,6 +117,9 @@ Each submission will be reviewed by at least 2 program committee members.
 
 ### Important Dates
 
-TBD
+Submission deadline: Wednedsay, March 6, 2019
+Notification of acceptance: Wednedsay, March 27, 2019
+Camera-ready papers due: Friday, April 5, 2019
+Workshop date: June 6 or 7, 2019
 
 Time is in GMT-12. Deadline is 11:59pm of the date indicated.
