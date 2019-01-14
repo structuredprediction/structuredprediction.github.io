@@ -62,18 +62,19 @@ a:visited { color: #205caa; }
   line-height: 56px;
   position: relative;
   z-index: 1;
-  padding: 5px;
+  padding-top: 5px;
+  padding-right: 5px;
 }
 
 .site-nav {
-  float: right;
+  float: left;
   line-height: 56px;
 }
 
 .site-nav .menu-icon { display: none; }
 
 .site-nav .page-link {
-  margin-left: 20px;
+  margin-right: .5em;
   color: #727272;
   letter-spacing: -.5px;
 }
