@@ -108,7 +108,7 @@ Long/short papers should consist of eight/four pages of content plus unlimited p
 Reviewing will be double-blind, and thus no author information should be included in the papers; self-reference should be avoided as well. 
 
 Submission is electronic and is managed by the START conference management system at
-[https://www.softconf.com/naacl2019/SPNLP/](https://www.softconf.com/naacl2019/SPNLP/)
+[https://www.softconf.com/naacl2019/spnlp/](https://www.softconf.com/naacl2019/spnlp/)
 
 
 Each submission will be reviewed by at least 2 program committee members. 
