@@ -103,7 +103,7 @@ We invite submissions of the following kinds:
 *  Position papers
 *  Tutorial/overview papers
 
-Long/short papers should consist of eight/four pages of content plus unlimited pages for bibliography. Submissions must be in PDF format following the [NAACL 2019 templates](https://naacl2019.org/calls/papers/), anonymized for review. Papers can be submitted as non-archival, so that their content can be reused for other venues. Add "(NON-ARCHIVAL)" to the title of the submission. Non-archival papers that are accepted will be linked from this webpage if their authors request so. Previously published work can also be submitted as non-archival in the same way, with the additional requirement to state on the first page the original publication.
+Long/short papers should consist of eight/four pages of content plus unlimited pages for bibliography. Submissions must be in PDF format following the [NAACL 2019 templates](https://naacl2019.org/calls/papers/), anonymized for review. Papers can be submitted as non-archival, so that their content can be reused for other venues. To mark your submission as non-archival, check the corresponding checkbox on the submission form. Non-archival papers that are accepted will be linked from this webpage if their authors request so. Previously published work can also be submitted as non-archival in the same way, with the additional requirement to state on the first page the original publication.
 
 Reviewing will be double-blind, and thus no author information should be included in the papers; self-reference should be avoided as well. 
 
