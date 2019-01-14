@@ -118,7 +118,7 @@ Each submission will be reviewed by at least 2 program committee members.
 ### Important Dates
 
 - Submission deadline: Wednedsay, March 6, 2019
-- Notification of acceptance: Wednedsay, March 27, 2019
+- Notification of acceptance: Wednesday, March 27, 2019
 - Camera-ready papers due: Friday, April 5, 2019
 - Workshop date: June 6 or 7, 2019
 
