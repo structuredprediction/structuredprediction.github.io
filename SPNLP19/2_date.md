@@ -5,7 +5,7 @@ permalink: /SPNLP19/date/
 name: 2
 ---
 
-- Submission deadline **(extended)**: Wednedsay, March **10**, 2019
+- Submission deadline **(extended)**: March **10**, 2019
 - Notification of acceptance: Wednedsay, March 27, 2019
 - Camera-ready papers due: Friday, April 5, 2019
 - Workshop date: June 7, 2019
