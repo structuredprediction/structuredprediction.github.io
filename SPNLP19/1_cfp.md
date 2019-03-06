@@ -117,7 +117,7 @@ Each submission will be reviewed by at least 2 program committee members.
 
 ### Important Dates
 
-- Submission deadline (**extended**): Wednesday, March **10**, 2019
+- Submission deadline (**extended**): March **10**, 2019
 - Notification of acceptance: Wednesday, March 27, 2019
 - Camera-ready papers due: Friday, April 5, 2019
 - Workshop date: June 7, 2019
