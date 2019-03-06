@@ -7,7 +7,7 @@ name: 3
 
 ## Invited Speakers
 
-* Mirella Lapata, University of Edinburgh, UK
+* Hannaneh Hajishirzi, University of Washington, USA
 * Jason Eisner, Johns Hopkins University, USA
 * Andrew McCallum, University of Massachusetts Amherst, USA
 * Claire Cardie, Cornell University, USA
