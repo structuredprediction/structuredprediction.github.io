@@ -64,35 +64,29 @@ Topics will include, but are not limited to, the following:
 
 ### Program Committee
 
+* Yoav Artzi, Cornell University, USA
 * Wilker Aziz, University of Amsterdam, Netherlands
 * Joost Bastings, University of Amsterdam, Netherlands
-* Hal Daumé III, Microsoft & University of Maryland, USA
-* Hiko Schamoni, Heidelberg University, Germany
-* Stefan Riezler, Heidelberg University, Germany
-* Artem Sokolov, Amazon,  Germany
 * Xilun Chen, Cornell University, USA
-* Arzoo Katiyar, Cornell University, USA
-* Tianze Shi, Cornell University, USA
-* Sebastian Mielke, Johns Hopkins University, USA
-* Parisa Kordjamshidi, Tulane University, USA
-* Vivek Srikumar, University of Utah, USA
-* Yoon Kim, Harvard University, USA
-* Ivan Titov, University of Edinburgh, Scotland
-* Yoav Artzi, Cornell University, USA
-* Roi Reichart, Technion - Israel Institute of Technology, Israel
-* Amir Globerson, Tel Aviv University, Israel
-* Alexander Schwing, UIUC, USA
-* Kevin Gimpel, TTI Chicago, USA
-* Waleed Ammar, Allen AI Institute, USA
-* Matt Gormley, CMU, USA
-* Luke Zettlemoyer, University of Washington, USA
-* Pranava Madhyastha, Imperial College London, UK
-* Trevor Cohn, University of Melbourne, Australia
 * Shay Cohen, University of Edinburgh, UK
-* Marek Rei, University of Cambridge, UK
+* Hal Daumé, Microsoft & University of Maryland, USA
+* Kevin Gimpel, TTI Chicago, USA
+* Matt Gormley, CMU, USA
+* Arzoo Katiyar, Cornell University, USA
+* Yoon Kim, Harvard University, USA
+* Parisa Kordjamshidi, Tulane University, USA
 * Amandla Mabona, University of Cambridge, UK
-* Noah Smith, University of Washington, USA
-
+* Pranava Madhyastha, Imperial College London, UK
+* Sebastian Mielke, Johns Hopkins University, USA
+* Roi Reichart, Technion - Israel Institute of Technology, Israel
+* Marek Rei, University of Cambridge, UK
+* Stefan Riezler, Heidelberg University, Germany
+* Hiko Schamoni, Heidelberg University, Germany
+* Tianze Shi, Cornell University, USA
+* Artem Sokolov, Amazon, Germany
+* Vivek Srikumar, University of Utah, USA
+* Ivan Titov, University of Edinburgh, Scotland
+* Luke Zettlemoyer, University of Washington, USA
 
 
 ### Submissions
