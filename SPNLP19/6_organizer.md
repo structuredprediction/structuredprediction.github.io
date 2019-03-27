@@ -5,14 +5,13 @@ permalink: /SPNLP19/organizers/
 name: 6
 ---
 
-* [André Martins](https://andre-martins.github.io) (Unbabel and University of Lisbon)
-* [Andreas Vlachos](https://andreasvlachos.github.io) (University of Cambridge)
 * [Zornitsa Kozareva](http://www.kozareva.com) (Google)
-* [Sujith Ravi](http://www.sravi.org) (Google)
-* [Gerasimos Lampouras](https://glampouras.github.io) (University of Cambridge)
-* [Vlad Niculae](https://vene.ro) (University of Lisbon)
 * [Julia Kreutzer](http://www.cl.uni-heidelberg.de/~kreutzer) (Heidelberg University)
-
+* [Gerasimos Lampouras](https://glampouras.github.io) (University of Cambridge)
+* [André Martins](https://andre-martins.github.io) (Unbabel and University of Lisbon)
+* [Vlad Niculae](https://vene.ro) (University of Lisbon)
+* [Sujith Ravi](http://www.sravi.org) (Google)
+* [Andreas Vlachos](https://andreasvlachos.github.io) (University of Cambridge)
 
 
 ### Program Committee
