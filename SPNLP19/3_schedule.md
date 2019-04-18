@@ -16,7 +16,7 @@ name: 3
 
 ## Schedule
 
-<div class="scheduletable">
+<div class="scheduletable" markdown="block">
 
 |_time_| _event_|
 |-----:|-------|
