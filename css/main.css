@@ -266,6 +266,16 @@ a:visited { color: #205caa; }
 
 .post pre.terminal code { background-color: #333; }
 
+/* schedule table style */
+.scheduletable table {
+  border-spacing: 10px;
+  border-collapse: separate;
+}
+
+.scheduletable td {
+  vertical-align: baseline;
+}
+
 /* Syntax highlighting styles */
 /* ----------------------------------------------------------*/
 
