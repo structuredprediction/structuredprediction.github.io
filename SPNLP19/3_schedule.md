@@ -16,20 +16,20 @@ name: 3
 
 ## Schedule
 
-| _start time_   |  |
-|----------|--|
-|  9:00 AM | Opening Remarks |
-|  9:10 AM | Invited Talk: **Andrew McCallum** (University of Massachusetts Amherst) |
-|  9:50 AM | Invited Talk: **Hannaneh Hajishirzi** (University of Washington) |
-| 10:30 AM | Coffee Break |
-| 11:00 AM | Invited Talk: **He He** (Stanford University) |
-| 11:40 AM | Contributed Talk: Parallelizable Stack Long Short-Term Memory (Shuoyang Ding and Philipp Koehn) |
-| 11:55 AM | Contributed Talk: Tracking Discrete and Continuous Entity State for Process Understanding (Aditya Gupta and Greg Durrett) |
-| 12:10 PM | Lunch Break |
-|  2:00 PM | Invited Talk:  **Chris Dyer** (Google DeepMind) |
-|  2:40 PM | Poster Spotlight (1-min blitz) |
-|  3:00 PM | Poster Session |
-|  3:30 PM | Coffee Break + Poster Session |
-|  4:00 PM | Invited Talk: **Claire Cardie** (Cornell University)  |
-|  4:40 PM | Invited Talk: **Jason Eisner** (Johns Hopkins University) |
-|  5:20 PM | End  |
+| _time_   |  |
+|---------:|--|
+|  9:00&nbsp;AM | Opening Remarks |
+|  9:10&nbsp;AM | _Invited Talk_<br/>**Andrew McCallum** (University of Massachusetts Amherst) |
+|  9:50&nbsp;AM | _Invited Talk_<br/>**Hannaneh Hajishirzi** (University of Washington) |
+| 10:30&nbsp;AM | Coffee Break |
+| 11:00&nbsp;AM | _Invited Talk_<br/>**He He** (Stanford University) |
+| 11:40&nbsp;AM | _Contributed Talk_<br/>Parallelizable Stack Long Short-Term Memory<br/>(Shuoyang Ding and Philipp Koehn) |
+| 11:55&nbsp;AM | _Contributed Talk_<br/>Tracking Discrete and Continuous Entity State for Process Understanding<br/>(Aditya Gupta and Greg Durrett) |
+| 12:10&nbsp;PM | Lunch Break |
+|  2:00&nbsp;PM | _Invited Talk_<br/>**Chris Dyer** (Google DeepMind) |
+|  2:40&nbsp;PM | Poster Spotlight (1-min blitz) |
+|  3:00&nbsp;PM | Poster Session |
+|  3:30&nbsp;PM | Coffee Break + Poster Session |
+|  4:00&nbsp;PM | _Invited Talk_<br/>**Claire Cardie** (Cornell University)  |
+|  4:40&nbsp;PM | _Invited Talk_<br/>**Jason Eisner** (Johns Hopkins University) |
+|  5:20&nbsp;PM | End  |
