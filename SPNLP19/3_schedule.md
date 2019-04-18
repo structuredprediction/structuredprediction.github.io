@@ -17,6 +17,7 @@ name: 3
 ## Schedule
 
 <div id="schedule">
+
 | _time_   | _event_ |
 |---------:|---------|
 |  9:00&nbsp;AM | Opening Remarks |
@@ -34,4 +35,5 @@ name: 3
 |  4:00&nbsp;PM | _Invited Talk_<br/>**Claire Cardie** (Cornell University)  |
 |  4:40&nbsp;PM | _Invited Talk_<br/>**Jason Eisner** (Johns Hopkins University) |
 |  5:20&nbsp;PM | End  |
+
 </div>
