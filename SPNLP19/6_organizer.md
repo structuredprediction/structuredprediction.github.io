@@ -8,8 +8,8 @@ name: 6
 * [Zornitsa Kozareva](http://www.kozareva.com) (Google)
 * [Julia Kreutzer](http://www.cl.uni-heidelberg.de/~kreutzer) (Heidelberg University)
 * [Gerasimos Lampouras](https://glampouras.github.io) (University of Cambridge)
-* [André Martins](https://andre-martins.github.io) (Unbabel and University of Lisbon)
-* [Vlad Niculae](https://vene.ro) (University of Lisbon)
+* [André Martins](https://andre-martins.github.io) (Unbabel and Instituto de Telecomunicações)
+* [Vlad Niculae](https://vene.ro) (Instituto de Telecomunicações)
 * [Sujith Ravi](http://www.sravi.org) (Google)
 * [Andreas Vlachos](https://andreasvlachos.github.io) (University of Cambridge)
 
