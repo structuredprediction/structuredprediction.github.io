@@ -33,7 +33,7 @@ name: 3
 |  3:00&nbsp;PM | Poster Session |
 |  3:30&nbsp;PM | Coffee Break + Poster Session |
 |  4:00&nbsp;PM | _Invited Talk_<br/>Structured Prediction in Information Extraction: Then and Now<br/>**Claire Cardie** (Cornell University)  |
-|  4:40&nbsp;PM | _Invited Talk_<br/>**Jason Eisner** (Johns Hopkins University) |
+|  4:40&nbsp;PM | _Invited Talk_<br/>Modeling Event Streams</br>**Jason Eisner** (Johns Hopkins University) |
 |  5:20&nbsp;PM | End  |
 
 </div>
