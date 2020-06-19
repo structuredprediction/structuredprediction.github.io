@@ -7,14 +7,13 @@ name: 6
 
 ### Organizers
 
-* [Priyanka Agrawal](https://www.linkedin.com/in/priyanka88/)(Booking)
+* [Priyanka Agrawal](https://sites.google.com/site/priyankaagr17)([Booking.com]())
 * [Zornitsa Kozareva](http://www.kozareva.com) (Google)
-* [Julia Kreutzer](http://www.cl.uni-heidelberg.de/~kreutzer) (Heidelberg University)
-* [Gerasimos Lampouras](https://glampouras.github.io) (University of Cambridge)
+* [Julia Kreutzer](http://www.cl.uni-heidelberg.de/~kreutzer) (Google)
+* [Gerasimos Lampouras](https://glampouras.github.io) (Huawei)
 * [André Martins](https://andre-martins.github.io) (Unbabel and Instituto de Telecomunicações)
-* [Sujith Ravi](http://www.sravi.org) (Google)
+* [Sujith Ravi](http://www.sravi.org) (Amazon)
 * [Andreas Vlachos](https://andreasvlachos.github.io) (University of Cambridge)
-
 
 
 ### Program Committee
