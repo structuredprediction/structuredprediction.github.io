@@ -105,6 +105,9 @@ Long/short papers should consist of eight/four pages of content plus unlimited p
 <!--To mark your submission as non-archival, check the corresponding checkbox on the submission form. -->
 Reviewing will be double-blind, and thus no author information should be included in the papers; self-reference should be avoided as well. 
 
+
+Papers can be dual-submitted to both SPNLP 2020 and EMNLP 2020 main conference which has its notification date of August 8, 2020 falling before our submission deadline.
+
 Submission is electronic and is managed by the START conference management system at
 [https://www.softconf.com/emnlp2020/spnlp2020/](https://www.softconf.com/emnlp2020/spnlp2020/)
 
