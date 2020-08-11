@@ -107,6 +107,7 @@ Reviewing will be double-blind, and thus no author information should be include
 
 
 Papers can be dual-submitted to both SPNLP 2020 and EMNLP 2020 main conference which has its notification date of August 8, 2020 falling before our submission deadline.
+If submitted as archival and it is accepted in both EMNLP and SPNLP, you would need to withdraw from one of them. You can submitting normally and can make the archival decision after the EMNLP notification
 
 Submission is electronic and is managed by the START conference management system at
 [https://www.softconf.com/emnlp2020/spnlp2020/](https://www.softconf.com/emnlp2020/spnlp2020/)
@@ -116,7 +117,7 @@ Each submission will be reviewed by at least 2 program committee members.
 
 ### Important Dates
 
-- Submission deadline: August 14, 2020
+- Submission deadline: August 20, 2020
 - Notification of acceptance: September 29, 2020
 - Camera-ready papers due: October 10, 2020
 - Workshop date: November 20, 2020

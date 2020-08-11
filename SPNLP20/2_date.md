@@ -6,7 +6,7 @@ name: 2
 ---
 
 
-- Submission deadline: August 14, 2020
+- Submission deadline: August 20, 2020
 - Notification of acceptance: September 29, 2020
 - Camera-ready papers due: October 10, 2020
 - Workshop date: November 20, 2020
