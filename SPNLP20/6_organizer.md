@@ -18,27 +18,25 @@ name: 6
 
 ### Program Committee
 
+* Sweta	Agrawal, University of Maryland, USA
 * Yoav Artzi, Cornell University, USA
 * Wilker Aziz, University of Amsterdam, Netherlands
+* Colin Cherry, Google AI, Canada
+* George Foster, Google AI, Canada
 * Kevin Gimpel, TTI Chicago, USA
+* Matthew Gormley, Carnegie Mellon University, USA
+* Parag Jain, University of Edinburgh, UK
 * Arzoo Katiyar, Cornell University, USA
+* Yoon Kim, MIT-IBM Watson AI Lab, USA
 * Parisa Kordjamshidi, Tulane University, USA
-* Amandla Mabona, University of Cambridge, UK
+* Chunchuan	Lyu, University of Edinburgh, UK
 * Pranava Madhyastha, Imperial College London, UK
-* Sebastian Mielke, Johns Hopkins University, USA
-* Roi Reichart, Technion - Israel Institute of Technology, Israel
+* Zita Marinho, Sacoor Brothers, Portugal
+* Sabrina J Mielke, Johns Hopkins University, USA
+* Toan Q Nguyen, University of Notre Dame, USA
+* Vlad Niculae, University of Amsterdam, Netherlands
 * Marek Rei, University of Cambridge, UK
-* Stefan Riezler, Heidelberg University, Germany
 * Hiko Schamoni, Heidelberg University, Germany
 * Tianze Shi, Cornell University, USA
-* Artem Sokolov, Amazon, Germany
 * Vivek Srikumar, University of Utah, USA
-* Luke Zettlemoyer, University of Washington, USA
-* Amr Sharaf, University of Maryland, USA
-* George Foster, Google AI Montreal, Canada
-*   Colin Cherry, Google AI Montreal, Canada
-*  Tim Vieira, Johns Hopkins University, USA
-*  Karthik Sankaranarayanan, IBM Research, India
-*   Maarten Versteegh, Huawei, Amsterdam
-* Parag Jain, University of Edinburgh, UK
-* Alexander Schwing, UIUC, USA
+* Sean J Welleck, New York University, USA
