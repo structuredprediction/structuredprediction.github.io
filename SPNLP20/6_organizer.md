@@ -7,7 +7,7 @@ name: 6
 
 ### Organizers
 
-* [Priyanka Agrawal](https://sites.google.com/site/priyankaagr17)([Booking.com]())
+* [Priyanka Agrawal](https://sites.google.com/site/priyankaagr17) (Booking.com)
 * [Zornitsa Kozareva](http://www.kozareva.com) (Google)
 * [Julia Kreutzer](http://www.cl.uni-heidelberg.de/~kreutzer) (Google)
 * [Gerasimos Lampouras](https://glampouras.github.io) (Huawei)
