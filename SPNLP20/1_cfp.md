@@ -70,12 +70,13 @@ We invite submissions of the following kinds:
 ### Program Committee
 
 * Sweta	Agrawal, University of Maryland, USA
+* Naveen Arivazhagan, Google Research, USA
 * Yoav Artzi, Cornell University, USA
 * Wilker Aziz, University of Amsterdam, Netherlands
-* Colin Cherry, Google AI, Canada
-* George Foster, Google AI, Canada
+* Colin Cherry, Google Research, Canada
+* Gonçalo Correia, Instituto de Telecomunicacoes, Portugal
+* George Foster, Google Research, Canada
 * Kevin Gimpel, TTI Chicago, USA
-* Matthew Gormley, Carnegie Mellon University, USA
 * Parag Jain, University of Edinburgh, UK
 * Arzoo Katiyar, Cornell University, USA
 * Yoon Kim, MIT-IBM Watson AI Lab, USA
@@ -83,6 +84,7 @@ We invite submissions of the following kinds:
 * Chunchuan	Lyu, University of Edinburgh, UK
 * Pranava Madhyastha, Imperial College London, UK
 * Zita Marinho, Sacoor Brothers, Portugal
+* Musie Meressa, Sapienza University of Rome, Italy
 * Sabrina J Mielke, Johns Hopkins University, USA
 * Toan Q Nguyen, University of Notre Dame, USA
 * Vlad Niculae, University of Amsterdam, Netherlands
@@ -91,7 +93,7 @@ We invite submissions of the following kinds:
 * Tianze Shi, Cornell University, USA
 * Vivek Srikumar, University of Utah, USA
 * Sean J Welleck, New York University, USA
-    
+
 ### Submissions
 
 We invite submissions of the following kinds:
