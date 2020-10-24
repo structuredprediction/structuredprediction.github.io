@@ -24,7 +24,7 @@ name: 5
 * *Syntactically restricted self-attention for Semantic Role Labeling.* Zihao Deng, Sijia Wang, Brendan Juba
 * *Syntax-driven Iterative Expansion Language Models for Controllable Text Generation.* Noe Casas, José A. R. Fonollosa, Marta R. Costa-jussà
 
-### Findings of EMNLP papers to be presented at CoNLL
+### Findings of EMNLP papers to be presented at SPNLP
 	
 * *A Fully Hyperbolic Neural Model for Hierarchical Multi-Class Classification.* Federico López, Michael Strube
 * *Multi^2OIE: Multilingual Open Information Extraction based on Multi-Head Attention with BERT.* oungbin Ro, Yukyung Lee, Pilsung Kang
