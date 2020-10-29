@@ -19,7 +19,6 @@ name: 3
 
 |_time_| _event_|
 |-----:|-------|
-
 |  9:00&nbsp;AM | Opening Remarks |
 |  9:10&nbsp;AM | _Invited Talk_<br/><br/>**Mark Johnson** (Macquarie University) |
 |  9:50&nbsp;AM | _Invited Talk_<br/><br/>**Sunita Sarawagi** (IIT Bombay) |
