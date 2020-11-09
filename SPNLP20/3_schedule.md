@@ -31,7 +31,7 @@ name: 3
 |  1:40&nbsp;PM | _Contributed Talk_<br/>CopyNext: Explicit Span Copying and Alignment in Sequence to Sequence Models<br/>(Abhinav Singh, Patrick Xia, Guanghui Qin, Mahsa Yarmohammadi and Benjamin Van Durme) |
 |  1:55&nbsp;PM | Poster Session |
 |  3:30&nbsp;PM | Coffee Break + Poster Session |
-|  4:00&nbsp;PM | _Invited Talk_<br/><br/>**Ivan Titov** (University of Edinburgh)  |
+|  4:00&nbsp;PM | _Invited Talk_<br/>Interpretability with Differentiable Subset Selection<br/>**Ivan Titov** (University of Edinburgh)  |
 |  4:40&nbsp;PM | _Invited Talk_<br/><br/>**Alexander Rush** (Cornell Tech) |
 |  5:20&nbsp;PM | End  |
 
