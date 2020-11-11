@@ -13,7 +13,7 @@ name: 3
 * Sunita Sarawagi, IIT Bombay
 * Ivan Titov, University of Edinburgh
 
-## Schedule
+## Schedule [Timezone: UTC+0]
 
 <div class="scheduletable" markdown="block">
 
