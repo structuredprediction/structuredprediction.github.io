@@ -6,7 +6,9 @@ name: 1
 ---
 
 Deep learning is being increasingly used for NLP applications in academia and industry. Many NLP prediction tasks using neural and other probabilistic methods involve assigning values to mutually dependent variables. For example, when designing a model to automatically analyze the structure of a sentence, document or conversation (e.g., parsing, semantic role labeling, discourse analysis or dialogue slot filling), it is crucial to model the correlations between labels. Many other NLP tasks, such as machine translation, textual entailment, information extraction and summarization, can be also modeled as structured prediction problems.
+
 In order to tackle such problems, various structured prediction approaches have been proposed, and their effectiveness has been demonstrated. Studying structured prediction is interesting from both NLP and machine learning (ML) perspectives. From the NLP perspective, syntax and semantics of natural language are clearly structured and advances in this area will enable researchers to understand the linguistic structure of data. From the ML perspective, the large amount of available text & graph/relational data and complex linguistic structures bring challenges to the learning community. Designing expressive yet tractable models and studying efficient learning and inference algorithms become important issues.
+
 This workshop follows the four previous successful editions in 2020, 2019, 2017 and 2016 on Structured Prediction for NLP, as well as the closely related ICML 17 Workshop on Deep Structured Prediction. It is very timely, as there has been a renewed interest in structured prediction among NLP researchers due to recent advances in methods using continuous representations, able to learn with task-level supervision, or modeling latent linguistic structure.
 
 Topics will include, but are not limited to the following:
@@ -27,7 +29,6 @@ Topics will include, but are not limited to the following:
 *  Structured prediction applications in NLP
 
 We invite submissions of the following kinds:
-
 *  Research papers
 *  Position papers
 *  Tutorial/overview papers
