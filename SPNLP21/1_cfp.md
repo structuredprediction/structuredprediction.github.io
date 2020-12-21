@@ -39,7 +39,7 @@ We invite submissions of the following kinds:
 -   Rada Mihalcea, University of Michigan 
 -   Scott Wen-tau Yih, Facebook AI Research 
 -   Carolin Lawrence, NEC Labs Europe 
--   Iryna Gurevyc, Technical University of Darmstadt 
+-   Iryna Gurevych, Technical University of Darmstadt 
 
 
 
