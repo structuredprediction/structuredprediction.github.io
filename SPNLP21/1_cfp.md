@@ -1,5 +1,5 @@
 ---
-layout: page20
+layout: page21
 title: Call for Papers
 permalink: /SPNLP21
 name: 1
