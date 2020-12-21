@@ -72,3 +72,23 @@ We invite submissions of the following kinds:
 * Ran Zmigrod, University of Cambridge, UK
 * Chunchuan Lyu, University of Edinburgh, UK 
 * Parisa Kordjamshidi,Michigan State University, USA 
+
+### Submissions
+
+We invite submissions of the following kinds:
+*  Research papers
+*  Position papers
+*  Tutorial/overview papers
+
+Long/short papers should consist of eight/four pages of content plus unlimited pages for bibliography. Submissions must be in PDF format following the [ACL-IJCNLP 2021 templates](https://2021.aclweb.org/calls/papers/#submissions), anonymized for review. Papers can be submitted as non-archival, so that their content can be reused for other venues. Add "(NON-ARCHIVAL)" to the title of the submission. Non-archival papers will be linked from this webpage if their authors wish to. Previously published work can also be submitted as non-archival in the same way, with the additional requirement to state on the first page the original publication.
+<!--To mark your submission as non-archival, check the corresponding checkbox on the submission form. -->
+Reviewing will be double-blind, and thus no author information should be included in the papers; self-reference should be avoided as well. Each submission will be reviewed by at least 2 program committee members. 
+
+
+### Important Dates
+- December 21, 2020: First Call for Workshop Papers
+- February 15, 2021: Second Call for Workshop Papers
+- April 26, 2021: Workshop Paper Due Date
+- May 28, 2021: Notification of Acceptance
+- June 7, 2021: Camera-ready papers due
+- August 5-6, 2021: Workshop Dates
