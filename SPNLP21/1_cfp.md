@@ -45,7 +45,7 @@ We invite submissions of the following kinds:
 
 ### Organizers
 
-* [Zornitsa Kozareva](http://www.kozareva.com) (Facebook)
+* [Zornitsa Kozareva](http://www.kozareva.com) (Facebook AI)
 * [Sujith Ravi](http://www.sravi.org) (Amazon)
 * [Priyanka Agrawal](https://sites.google.com/site/priyankaagr17) (Booking.com)
 * [André Martins](https://andre-martins.github.io) (Unbabel and Instituto de Telecomunicações)
@@ -82,8 +82,11 @@ We invite submissions of the following kinds:
 
 Long/short papers should consist of eight/four pages of content plus unlimited pages for bibliography. Submissions must be in PDF format following the [ACL-IJCNLP 2021 templates](https://2021.aclweb.org/calls/papers/#submissions), anonymized for review. Papers can be submitted as non-archival, so that their content can be reused for other venues. Add "(NON-ARCHIVAL)" to the title of the submission. Non-archival papers will be linked from this webpage if their authors wish to. Previously published work can also be submitted as non-archival in the same way, with the additional requirement to state on the first page the original publication.
 <!--To mark your submission as non-archival, check the corresponding checkbox on the submission form. -->
-Reviewing will be double-blind, and thus no author information should be included in the papers; self-reference should be avoided as well. Each submission will be reviewed by at least 2 program committee members. 
 
+Submission is electronic and is managed by the START conference management system at
+https://www.softconf.com/acl2021/w18_SPNLP21
+
+Reviewing will be double-blind, and thus no author information should be included in the papers; self-reference should be avoided as well. Each submission will be reviewed by at least 2 program committee members. 
 
 ### Important Dates
 - December 21, 2020: First Call for Workshop Papers
