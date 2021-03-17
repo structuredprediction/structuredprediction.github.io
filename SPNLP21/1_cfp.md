@@ -84,7 +84,7 @@ Long/short papers should consist of eight/four pages of content plus unlimited p
 <!--To mark your submission as non-archival, check the corresponding checkbox on the submission form. -->
 
 Submission is electronic and is managed by the START conference management system at
-https://www.softconf.com/acl2021/w18_SPNLP21
+[https://www.softconf.com/acl2021/w18_SPNLP21](https://www.softconf.com/acl2021/w18_SPNLP21)
 
 Reviewing will be double-blind, and thus no author information should be included in the papers; self-reference should be avoided as well. Each submission will be reviewed by at least 2 program committee members. 
 
