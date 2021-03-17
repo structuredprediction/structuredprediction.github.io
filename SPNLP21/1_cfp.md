@@ -89,7 +89,6 @@ Submission is electronic and is managed by the START conference management syste
 Reviewing will be double-blind, and thus no author information should be included in the papers; self-reference should be avoided as well. Each submission will be reviewed by at least 2 program committee members. 
 
 ### Important Dates
-- March 16, 2021: Call for Workshop Papers
 - April 26, 2021: Workshop Paper Due Date
 - May 28, 2021: Notification of Acceptance
 - June 7, 2021: Camera-ready papers due
