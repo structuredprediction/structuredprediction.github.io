@@ -5,7 +5,7 @@ permalink: /SPNLP21/organizers/
 name: 6
 ---
 
-* [Zornitsa Kozareva](http://www.kozareva.com) (Facebook)
+* [Zornitsa Kozareva](http://www.kozareva.com) (Facebook AI)
 * [Sujith Ravi](http://www.sravi.org) (Amazon)
 * [Priyanka Agrawal](https://sites.google.com/site/priyankaagr17) (Booking.com)
 * [André Martins](https://andre-martins.github.io) (Unbabel and Instituto de Telecomunicações)
