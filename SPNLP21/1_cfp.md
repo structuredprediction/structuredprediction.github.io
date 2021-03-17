@@ -89,8 +89,7 @@ https://www.softconf.com/acl2021/w18_SPNLP21
 Reviewing will be double-blind, and thus no author information should be included in the papers; self-reference should be avoided as well. Each submission will be reviewed by at least 2 program committee members. 
 
 ### Important Dates
-- December 21, 2020: First Call for Workshop Papers
-- February 15, 2021: Second Call for Workshop Papers
+- March 16, 2021: Call for Workshop Papers
 - April 26, 2021: Workshop Paper Due Date
 - May 28, 2021: Notification of Acceptance
 - June 7, 2021: Camera-ready papers due
