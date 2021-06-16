@@ -26,7 +26,7 @@ Erenay Dayanik, Andre Blessing, Nico Blokker, Sebastian Haunss, Jonas Kuhn, Gabr
 * *Question Decomposition with Dependency Graphs*
 Matan Hasson and Jonathan Berant 
 
-### Findings papers of ACL-IJCNLP 2021 to be presented at SPNLP 2021
+### ACL-IJCNLP 2021 Findings Papers to be presented at SPNLP 2021
 
 * *Spatial Dependency Parsing for Semi-Structured Document Information Extraction*
 Wonseok Hwang, Jinyeong Yim, Seunghyun Park, Sohee Yang and Minjoon Seo 
