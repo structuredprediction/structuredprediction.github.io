@@ -1,5 +1,5 @@
 ---
-layout: page21
+layout: page20
 title: Accepted Papers
 permalink: /SPNLP21/ac/
 name: 5
