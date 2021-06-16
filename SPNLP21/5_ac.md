@@ -16,7 +16,7 @@ Julia Kreutzer, Stefan Riezler and Carolin Lawrence
 * *Answering Complex Queries in Knowledge Graphs with Bidirectional Sequence Encoders (NON-ARCHIVAL)*
 Bhushan Kotnis, Carolin Lawrence and Mathias Niepert
 * *A Globally Normalized Neural Model for Semantic Parsing*
-Chenyang Huang, Wei Yang, Yanshuai Cao, Osmar ZaÃ¯ane and Lili Mou 
+Chenyang Huang, Wei Yang, Yanshuai Cao, Osmar Zaiane and Lili Mou 
 * *SmBoP: Semi-autoregressive Bottom-up Semantic Parsing*
 Ohad Rubin and Jonathan Berant 
 * *RewardsOfSum: Exploring Reinforcement Learning Rewards for Summarisation*
