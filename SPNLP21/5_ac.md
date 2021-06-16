@@ -13,7 +13,7 @@ Ilia Kulikov, Sean Welleck and Kyunghyun Cho
 Jonas Groschwitz, Meaghan Fowlie and Alexander Koller
 * *Offline Reinforcement Learning from Human Feedback in Real-World Sequence-to-Sequence Tasks*
 Julia Kreutzer, Stefan Riezler and Carolin Lawrence 
-* *Answering Complex Queries in Knowledge Graphs with Bidirectional Sequence Encoders (NON-ARCHIVAL)*
+* *Answering Complex Queries in Knowledge Graphs with Bidirectional Sequence Encoders*
 Bhushan Kotnis, Carolin Lawrence and Mathias Niepert
 * *A Globally Normalized Neural Model for Semantic Parsing*
 Chenyang Huang, Wei Yang, Yanshuai Cao, Osmar Zaiane and Lili Mou 
@@ -23,7 +23,7 @@ Ohad Rubin and Jonathan Berant
 Jacob Parnell, Inigo Jauregi Unanue and Massimo Piccardi 
 * *Using Hierarchical Class Structure to Improve Fine-Grained Claim Classification*
 Erenay Dayanik, Andre Blessing, Nico Blokker, Sebastian Haunss, Jonas Kuhn, Gabriella Lapesa and Sebastian Pado
-* *Question Decomposition with Dependency Graphs (NON-ARCHIVAL)*
+* *Question Decomposition with Dependency Graphs*
 Matan Hasson and Jonathan Berant 
 
 ### Findings papers of ACL-IJCNLP 2021 to be presented at SPNLP 2021
