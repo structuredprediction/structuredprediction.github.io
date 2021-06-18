@@ -28,7 +28,7 @@ name: 3
 | 12:20&nbsp;AM | _Contributed Talk_<br/>TBD<br/>( Saarland) |
 | 12:35&nbsp;AM | _Contributed Talk_<br/>TBD<br/>(Google+NEC+Heidelberg) |
 | 12:50&nbsp;PM |  Break |
-|  1:50&nbsp;PM | _Invited Talk_<br/>TBD <br/>** Heng Ji ** (University of Illinois Urbana-Champaign, USA) |
+|  1:50&nbsp;PM | _Invited Talk_<br/>TBD <br/>**Heng Ji** (University of Illinois Urbana-Champaign, USA) |
 |  2:30&nbsp;PM | _Contributed Talk_<br/>TBD<br/>(NYU) |  
 |  2:45&nbsp;PM | Poster Session II |
 |  3:45&nbsp;PM |  Break |
