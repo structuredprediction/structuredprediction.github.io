@@ -20,7 +20,7 @@ name: 3
 |_time_| _event_|
 |-----:|-------|
 |  9:00&nbsp;AM | Opening Remarks |
-|  9:10&nbsp;AM | _Invited Talk_<br/TBD<br/>**Iryna Gurevych** (Technical University Darmstadt, Germany) |
+|  9:10&nbsp;AM | _Invited Talk_<br/>TBD<br/>**Iryna Gurevych** (Technical University Darmstadt, Germany) |
 |  9:50&nbsp;AM | _Invited Talk_<br/>TBD<br/>**Carolin Lawrence** (NEC Labs Europe, Germany) |
 | 10:30&nbsp;AM |  Break |
 | 10:40&nbsp;AM |  Poster Session I |
