@@ -25,8 +25,8 @@ name: 3
 | 10:30&nbsp;AM |  Break |
 | 10:40&nbsp;AM |  Poster Session I |
 | 11:40&nbsp;AM | _Invited Talk_<br/>TBD<br/>**Rada Mihalcea** (University of Michigan, USA) |
-| 12:20&nbsp;AM | _Contributed Talk_<br/>Learning compositional structures for semantic graph parsing<br/>(Jonas Groschwitz, Meaghan Fowlie and Alexander Koller)|
-| 12:35&nbsp;AM | _Contributed Talk_<br/>Offline Reinforcement Learning from Human Feedback in Real-World Sequence-to-Sequence Tasks<br/>(Julia Kreutzer, Stefan Riezler and Carolin Lawrence) |
+| 12:20&nbsp;PM | _Contributed Talk_<br/>Learning compositional structures for semantic graph parsing<br/>(Jonas Groschwitz, Meaghan Fowlie and Alexander Koller)|
+| 12:35&nbsp;PM | _Contributed Talk_<br/>Offline Reinforcement Learning from Human Feedback in Real-World Sequence-to-Sequence Tasks<br/>(Julia Kreutzer, Stefan Riezler and Carolin Lawrence) |
 | 12:50&nbsp;PM |  Break |
 |  1:50&nbsp;PM | _Invited Talk_<br/>TBD <br/>**Heng Ji** (University of Illinois Urbana-Champaign, USA) |
 |  2:30&nbsp;PM | _Contributed Talk_<br/>Mode recovery in neural autoregressive sequence modeling<br/>(Ilia Kulikov, Sean Welleck and Kyunghyun Cho)|  
