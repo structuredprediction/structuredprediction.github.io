@@ -6,7 +6,7 @@ name: 6
 ---
 
 * [Zornitsa Kozareva](http://www.kozareva.com) (Facebook AI)
-* [Sujith Ravi](http://www.sravi.org) (Amazon)
+* [Sujith Ravi](http://www.sravi.org) (SliceX AI)
 * [Priyanka Agrawal](https://sites.google.com/site/priyankaagr17) (Booking.com)
 * [André Martins](https://andre-martins.github.io) (Unbabel and Instituto de Telecomunicações)
 * [Andreas Vlachos](https://andreasvlachos.github.io) (University of Cambridge)
