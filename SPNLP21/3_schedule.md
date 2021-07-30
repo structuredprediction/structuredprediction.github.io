@@ -28,7 +28,7 @@ name: 3
 | 12:20&nbsp;PM | _Contributed Talk_<br/>Learning compositional structures for semantic graph parsing<br/>(Jonas Groschwitz, Meaghan Fowlie and Alexander Koller)|
 | 12:35&nbsp;PM | _Contributed Talk_<br/>Offline Reinforcement Learning from Human Feedback in Real-World Sequence-to-Sequence Tasks<br/>(Julia Kreutzer, Stefan Riezler and Carolin Lawrence) |
 | 12:50&nbsp;PM |  Break |
-|  1:50&nbsp;PM | _Invited Talk_<br/>Future is not one-dimensional: Hierarchical Complex Event Schema Induction for Event and Episode Predictio<br/>**Heng Ji** (University of Illinois Urbana-Champaign, USA) |
+|  1:50&nbsp;PM | _Invited Talk_<br/>Future is not one-dimensional: Hierarchical Complex Event Schema Induction for Event and Episode Prediction<br/>**Heng Ji** (University of Illinois Urbana-Champaign, USA) |
 |  2:30&nbsp;PM | _Contributed Talk_<br/>Mode recovery in neural autoregressive sequence modeling<br/>(Ilia Kulikov, Sean Welleck and Kyunghyun Cho)|  
 |  2:45&nbsp;PM | Poster Session II |
 |  3:45&nbsp;PM |  Break |
