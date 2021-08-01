@@ -13,7 +13,7 @@ name: 3
 -   Carolin Lawrence, NEC Labs Europe 
 -   Iryna Gurevych, Technical University of Darmstadt 
 
-## Schedule [Timezone: GMT-4]
+## Schedule: 6th of August 2021 [Timezone: GMT-4]
 
 <div class="scheduletable" markdown="block">
   
