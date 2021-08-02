@@ -33,7 +33,7 @@ name: 3
 |  2:45&nbsp;PM | Poster Session II |
 |  3:45&nbsp;PM |  Break |
 |  4:15&nbsp;PM | _Contributed Talk_<br/>Comparing Span Extraction Methods for Semantic Role Labeling<br/>(Zhisong Zhang, Emma Strubell and Eduard Hovy) |
-|  4:30&nbsp;PM | _Invited Talk_<br/>TBD<br/>**Scott Wen-tau Yih** (Facebook AI Research, USA)  |
+|  4:30&nbsp;PM | _Invited Talk_<br/>Structured Prediction Problems in Question Answering<br/>**Scott Wen-tau Yih** (Facebook AI Research, USA)  |
 |  5:10&nbsp;PM | Closing Remarks  |
 
 </div>
