@@ -45,11 +45,11 @@ We invite submissions of the following kinds:
 
 ### Organizers
 
-* [Zornitsa Kozareva](http://www.kozareva.com) (Facebook AI)
-* [Sujith Ravi](http://www.sravi.org) (Amazon)
-* [Priyanka Agrawal](https://sites.google.com/site/priyankaagr17) (Booking.com)
-* [André Martins](https://andre-martins.github.io) (Unbabel and Instituto de Telecomunicações)
-* [Andreas Vlachos](https://andreasvlachos.github.io) (University of Cambridge)
+* [Zornitsa Kozareva](http://www.kozareva.com) (Facebook AI, USA)
+* [Sujith Ravi](http://www.sravi.org) (SliceX AI, USA)
+* [Priyanka Agrawal](https://sites.google.com/site/priyankaagr17) (Booking.com, Netherlands)
+* [André Martins](https://andre-martins.github.io) (Unbabel and Instituto de Telecomunicações, Portugal)
+* [Andreas Vlachos](https://andreasvlachos.github.io) (University of Cambridge, UK)
 
 ### Program Committee
 
