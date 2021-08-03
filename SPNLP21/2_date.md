@@ -9,4 +9,4 @@ name: 2
 - April 26, 2021: Workshop Paper Due Date
 - May 28, 2021: Notification of Acceptance
 - June 7, 2021: Camera-ready papers due
-- August 5-6, 2021: Workshop Dates
+- August 6, 2021: Workshop Dates
