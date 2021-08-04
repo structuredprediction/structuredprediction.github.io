@@ -13,11 +13,11 @@ name: 3
 -   Carolin Lawrence, NEC Labs Europe 
 -   Iryna Gurevych, Technical University of Darmstadt 
 
-## Schedule: 6th of August 2021 [Timezone: GMT-4]
+## Schedule: August 6th, 2021 [Timezone: GMT-4]
 
 <div class="scheduletable" markdown="block">
   
-|_time_| _event_|
+|_Time_| _Event_|
 |-----:|-------|
 |  9:00&nbsp;AM | **Opening Remarks** |
 |  9:10&nbsp;AM | **Invited Talk** <br/>Adapters in Transformers: a New Paradigm for Transfer Learning?<br/>**Iryna Gurevych** (Technical University Darmstadt, Germany) |
