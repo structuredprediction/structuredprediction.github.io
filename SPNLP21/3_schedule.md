@@ -24,7 +24,7 @@ name: 3
 |  9:50&nbsp;AM | **Invited Talk** <br/>From Knowledge Graphs to Human-Centric Explainable Knowledge Discovery<br/>**Carolin Lawrence** (NEC Labs Europe, Germany) |
 | 10:30&nbsp;AM |  **Break** |
 | 10:40&nbsp;AM |  **Poster Session I** <br/> Spatial Dependency Parsing for Semi-Structured Document Information Extraction<br/> (Wonseok Hwang, Jinyeong Yim, Seunghyun Park, Sohee Yang and Minjoon Seo) <br/><br/> OKGIT: Open Knowledge Graph Link Prediction with Implicit Types <br/> (Chandrahas, Partha Talukdar) <br/><br/> A Neural Edge-Editing Approach for Document-Level Relation Graph Extraction	<br/> (Kohei Makino, Makoto Miwa, Yutaka Sasaki) <br/><br/> On Sparsifying Encoder Outputs in Sequence-to-Sequence Models <br/> (Biao Zhang, Ivan Titov, Rico Sennrich) <br/><br/> Insertion-based Tree Decoding	<br/>(Denis Lukovnikov, Asja Fischer) <br/><br/> HySPA: Hybrid Span Generation for Scalable Text-to-Graph Extraction<br/> (Liliang Ren, Chenkai Sun, Heng Ji, Julia Hockenmaier) <br/><br/> Effective Batching for Recurrent Neural Network Grammars	<br/> (Hiroshi Noji, Yohei Oseki)<br/> |
-| 11:40&nbsp;AM | **Invited Talk**<br/>TBD<br/>**Rada Mihalcea** (University of Michigan, USA) |
+| 11:40&nbsp;AM | **Invited Talk**<br/>TextRank: Bringing Order into Texts (Revisited)<br/>**Rada Mihalcea** (University of Michigan, USA) |
 | 12:20&nbsp;PM | **Contributed Talk**<br/>Learning compositional structures for semantic graph parsing<br/>(Jonas Groschwitz, Meaghan Fowlie and Alexander Koller)|
 | 12:35&nbsp;PM | **Contributed Talk**<br/>Offline Reinforcement Learning from Human Feedback in Real-World Sequence-to-Sequence Tasks<br/>(Julia Kreutzer, Stefan Riezler and Carolin Lawrence) |
 | 12:50&nbsp;PM |  Break |
