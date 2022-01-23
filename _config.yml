@@ -5,9 +5,10 @@ title1_17: "EMNLP 17 "
 title1_19: "NAACL 2019 "
 title1_20: "EMNLP 2020 "
 title1_21: "ACL-IJCNLP 2021"
+title1_22: "ACL 2022"
 title2: "Workshop on Structured Prediction for NLP"
-title3: "5th Workshop on Structured Prediction for NLP"
-email: structured-prediction-workshop-org@googlegroups.com 
+title3: "6th Workshop on Structured Prediction for NLP"
+email: spnlp2022@googlegroups.com
 #description: "EMNLP 16: Structured Prediction for Natural Language Processing"
 baseurl: ""
 url1_16: "http://www.emnlp2016.net"
@@ -15,6 +16,7 @@ url1_17: "http://www.emnlp2017.net"
 url1_19: "https://naacl2019.org"
 url1_20: "https://2020.emnlp.org"
 url1_21: "https://2021.aclweb.org"
+url1_22: "https://2022.aclweb.org"
 url2: "http://structuredprediction.github.io"
 #twitter_username: jekyllrb
 #github_username:  jekyll
