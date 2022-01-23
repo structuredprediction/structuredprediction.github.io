@@ -1,7 +1,7 @@
 ---
-layout: page21
+layout: page22
 title: Call for Papers
-permalink: /SPNLP21
+permalink: /SPNLP22
 name: 1
 ---
 
@@ -45,8 +45,6 @@ We invite submissions of the following kinds:
 
 ### Organizers
 
-* [Zornitsa Kozareva](http://www.kozareva.com) (Facebook AI, USA)
-* [Sujith Ravi](http://www.sravi.org) (SliceX AI, USA)
 * [Priyanka Agrawal](https://sites.google.com/site/priyankaagr17) (Booking.com, Netherlands)
 * [André Martins](https://andre-martins.github.io) (Unbabel and Instituto de Telecomunicações, Portugal)
 * [Andreas Vlachos](https://andreasvlachos.github.io) (University of Cambridge, UK)
