@@ -1,7 +1,7 @@
 <header class="site-header">
 
   <div class="wrap">
-    <a class="site-title" href="{{ site.url1_21 }}/"><font color='#205caa'> {{ site.title1_21 }}  </font> </a> 
+    <a class="site-title" href="{{ site.url1_22 }}/"><font color='#205caa'> {{ site.title1_22 }}  </font> </a> 
     <a class="site-title" href="{{ site.url2 }}/"> {{ site.title3 }} </a>
 
     <nav class="site-nav">
@@ -19,7 +19,7 @@
       <div class="trigger">
 	  {% assign items = site.pages |  sort: 'name' %}
 	  {% for page in items %}
-	  {% if page.permalink contains "SPNLP21" %} 
+	  {% if page.permalink contains "SPNLP22" %} 
 	  {% if page.title %}<a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>{% endif %}
 	  {% endif %}
         {% endfor %}
