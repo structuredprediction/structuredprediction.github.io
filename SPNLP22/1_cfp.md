@@ -78,7 +78,7 @@ We invite submissions of the following kinds:
 *  Position papers
 *  Tutorial/overview papers
 
-Long/short papers should consist of eight/four pages of content plus unlimited pages for bibliography. Submissions must be in PDF format following the [ACL-IJCNLP 2021 templates](https://2021.aclweb.org/calls/papers/#submissions), anonymized for review. Papers can be submitted as non-archival, so that their content can be reused for other venues. Add "(NON-ARCHIVAL)" to the title of the submission. Non-archival papers will be linked from this webpage if their authors wish to. Previously published work can also be submitted as non-archival in the same way, with the additional requirement to state on the first page the original publication.
+Long/short papers should consist of eight/four pages of content plus unlimited pages for bibliography. Submissions must be in PDF format following the [ACL-IJCNLP 2022 templates](https://2022.aclweb.org/calls/papers/#submissions), anonymized for review. Papers can be submitted as non-archival, so that their content can be reused for other venues. Add "(NON-ARCHIVAL)" to the title of the submission. Non-archival papers will be linked from this webpage if their authors wish to. Previously published work can also be submitted as non-archival in the same way, with the additional requirement to state on the first page the original publication.
 <!--To mark your submission as non-archival, check the corresponding checkbox on the submission form. -->
 
 Submission is electronic and is managed by the START conference management system at
@@ -87,7 +87,7 @@ Submission is electronic and is managed by the START conference management syste
 Reviewing will be double-blind, and thus no author information should be included in the papers; self-reference should be avoided as well. Each submission will be reviewed by at least 2 program committee members. 
 
 ### Important Dates
-- April 26, 2021: Workshop Paper Due Date
-- May 28, 2021: Notification of Acceptance
-- June 7, 2021: Camera-ready papers due
-- August 6, 2021: Workshop Dates
+- 28 February, 2022: Workshop Paper Due Date
+- 26 March, 2022: Notification of Acceptance
+- April 10, 2022: Camera-ready papers due
+- May 27, 2022: Workshop Date
