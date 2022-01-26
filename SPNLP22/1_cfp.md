@@ -45,9 +45,11 @@ We invite submissions of the following kinds:
 
 ### Organizers
 
+* [Andreas Vlachos](https://andreasvlachos.github.io) (University of Cambridge, UK)
 * [Priyanka Agrawal](https://sites.google.com/site/priyankaagr17) (Booking.com, Netherlands)
 * [André Martins](https://andre-martins.github.io) (Unbabel and Instituto de Telecomunicações, Portugal)
-* [Andreas Vlachos](https://andreasvlachos.github.io) (University of Cambridge, UK)
+* [Gerasimos Lampouras]()()
+* [Chunchuan LV]()()
 
 ### Program Committee
 
