@@ -35,11 +35,9 @@ We invite submissions of the following kinds:
 
 ### Invited Speakers
 
--   Heng Ji, University of Illinois Urbana-Champaign
--   Rada Mihalcea, University of Michigan 
--   Scott Wen-tau Yih, Facebook AI Research 
--   Carolin Lawrence, NEC Labs Europe 
--   Iryna Gurevych, Technical University of Darmstadt 
+- Angela Fan 
+- Lena Voita 
+- Siva Reddy 
 
 
 
