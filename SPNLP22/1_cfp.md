@@ -46,8 +46,8 @@ We invite submissions of the following kinds:
 * [Andreas Vlachos](https://andreasvlachos.github.io) (University of Cambridge, UK)
 * [Priyanka Agrawal](https://sites.google.com/site/priyankaagr17) (Booking.com, Netherlands)
 * [André Martins](https://andre-martins.github.io) (Unbabel and Instituto de Telecomunicações, Portugal)
-* [Gerasimos Lampouras]()()
-* [Chunchuan LV]()()
+* [Gerasimos Lampouras](https://glampouras.github.io/)(Huawei Lab, UK)
+* [Chunchuan Lyu]()(University of Lisbon, Portugal)
 
 ### Program Committee
 
