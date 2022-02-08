@@ -78,7 +78,7 @@ We invite submissions of the following kinds:
 *  Position papers
 *  Tutorial/overview papers
 
-Long/short papers should consist of eight/four pages of content plus unlimited pages for bibliography. Submissions must be in PDF format following the [ACL-IJCNLP 2022 templates](https://2022.aclweb.org/calls/papers/#submissions), anonymized for review. Papers can be submitted as non-archival, so that their content can be reused for other venues. Add "(NON-ARCHIVAL)" to the title of the submission. Non-archival papers will be linked from this webpage if their authors wish to. Previously published work can also be submitted as non-archival in the same way, with the additional requirement to state on the first page the original publication.
+Long/short papers should consist of eight/four pages of content plus unlimited pages for bibliography. Submissions must be in PDF format following the [ACL-2022 templates](https://2022.aclweb.org/calls/papers/#submissions), anonymized for review according to the [ACL guidelines](https://www.2022.aclweb.org/callpapers). Papers can be submitted as non-archival, so that their content can be reused for other venues. Add "(NON-ARCHIVAL)" to the title of the submission. Non-archival papers will be linked from this webpage if their authors wish to. Previously published work can also be submitted as non-archival in the same way, with the additional requirement to state on the first page the original publication.
 <!--To mark your submission as non-archival, check the corresponding checkbox on the submission form. -->
 
 Submission is electronic at
