@@ -34,11 +34,12 @@ We invite submissions of the following kinds:
 *  Tutorial/overview papers
 
 ### Invited Speakers
-
-- Angela Fan 
-- Lena Voita 
-- Siva Reddy 
-
+ 
+- Angela Fan
+- Wilker Aziz
+- Sebastian Riedel
+- Siva Reddy
+- Albert Gu
 
 
 ### Organizers
