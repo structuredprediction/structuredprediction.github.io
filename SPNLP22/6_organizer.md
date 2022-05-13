@@ -1,34 +1,38 @@
 ---
-layout: page21
+layout: page22
 title: Organizers
-permalink: /SPNLP21/organizers/
+permalink: /SPNLP22/organizers/
 name: 6
 ---
 
-* [Zornitsa Kozareva](http://www.kozareva.com) (Facebook AI, USA)
-* [Sujith Ravi](http://www.sravi.org) (SliceX AI, USA)
-* [Priyanka Agrawal](https://sites.google.com/site/priyankaagr17) (Booking.com, Netherlands)
-* [André Martins](https://andre-martins.github.io) (Unbabel and Instituto de Telecomunicações, Portugal)
 * [Andreas Vlachos](https://andreasvlachos.github.io) (University of Cambridge, UK)
-
+* [Priyanka Agrawal](https://sites.google.com/site/priyankaagr17) (Google Research, UK)
+* [André Martins](https://andre-martins.github.io) (Unbabel and Instituto de Telecomunicações, Portugal)
+* [Gerasimos Lampouras](https://glampouras.github.io/)(Huawei Lab, UK)
+* [Chunchuan Lyu]()(University of Lisbon, Portugal)
 
 ### Program Committee
-* Heng Ji, University of Illinois Urbana-Champaign, USA
+
+* Manling Li, University of Illinois, Urbana-Champaign, USA
+* Sha Li, University of Illinois, Urbana-Champaign, USA
+* Julius Cheng, University of Cambridge, UK
+* Pietro Lesci, University of Cambridge, UK
+* Moy Yuan, University of Cambridge UK
+* Zhijiang Guo, University of Cambridge, UK
+* Ignacio Iacobacci, Huawei Noah's Ark Lab, UK
+* Philip John Gorinski, Huawei Noah's Ark Lab, UK
+* Parag Jain, University of Edinburgh, UK
 * Vivek Srikumar, University of Utah, USA 
-* Roi Reichart, Technion - Israel Institute of Technology, Israel
-* Kevin Gimpel, TTI Chicago, USA
-* Ivan Titov, University of Edinburgh, Scotland
-* Wilker Aziz, University of Amsterdam, Netherlands
-* Hiko Schamoni, Heidelberg University, Germany
-* Arzoo Katiyar, Cornell University, USA 
-* Tianze Shi, Cornell University, USA 
-* Sabrina Mielke, Johns Hopkins University, USA 
-* Pranava Madhyastha, Imperial College London, UK
-* Amr Sharaf, University of Maryland, USA
-* Tim Vieira, Johns Hopkins University, USA
-* Parag Jain, University of Edinburgh, UK 
-* Sean Welleck, New York University, USA 
-* Michail Korakakis, University of Cambridge, UK 
-* Ran Zmigrod, University of Cambridge, UK
-* Chunchuan Lyu, University of Edinburgh, UK 
+* Michail Korakakis, University of Cambridge, UK
 * Parisa Kordjamshidi,Michigan State University, USA 
+* Tatsuya Hiraoka, Tokyo Institute of Technology, Japan
+* Naoaki Okazaki, Tokyo Institute of Technology, Japan
+* Youmi Ma, Tokyo Institute of Technology, Japan
+* Pedro Henrique Martins, Instituto Superior Técnico, Portugal
+* Yangfeng Ji, University of Virginia, USA
+* Zhen Han, Institut für Informatik, Germany
+* Guirong Fu, Bytedance
+* Patrick Fernandes, Carnegie Mellon University, USA
+* Yusuke Miyao, University of Tokyo, Japan
+* Daniel Daza, Vrije Universiteit Amsterdam, Netherlands
+* Marcos Vinicius Treviso, Instituto Superior Técnico, Portugal
