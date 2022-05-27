@@ -9,7 +9,8 @@ name: 3
 
 -   Angela Fan, Facebook AI Research and LORIA, France
 -   Wilker Aziz, ILLC, University of Amsterdam, Netherlands
--   Sebastian Riedel, Meta AI and University College London, United Kingdom
+-   ~~Sebastian Riedel, Meta AI and University College London, United Kingdom~~
+-   Nicola De Cao, Institute for Logic, Language and Computation, University of Amsterdam
 -   Siva Reddy, Facebook CIFAR AI and Mila, McGill University, Canada
 -   Albert Gu, Stanford University
 
