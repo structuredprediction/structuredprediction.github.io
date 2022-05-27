@@ -38,7 +38,7 @@ We invite submissions of the following kinds:
 - Angela Fan
 - Wilker Aziz
 - ~~Sebastian Riedel~~
-</br> Nicola De Cao
+ Nicola De Cao
 - Siva Reddy
 - Albert Gu
 
